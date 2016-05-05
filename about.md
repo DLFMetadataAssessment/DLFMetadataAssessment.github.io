@@ -19,4 +19,6 @@ We want this website and the information contained therein to be a living docume
 - [send a message to our Google Group,](https://groups.google.com/forum/#!forum/dlf-aig-metadata-assessment-working-group)
 - [or join one of our calls.](https://wiki.diglib.org/Assessment:Metadata)
 
-<b>Anyone and everyone is welcomed to take part in the DLF AIG Metadata Working Group. Use the links below to find out more about the group or get involved.</b>
+<b>Anyone and everyone is welcomed to take part in the DLF AIG Metadata Working Group. Use the link below to find out more about the group or get involved.</b>
+
+- [our DLF wiki page](https://wiki.diglib.org/Assessment:Metadata)

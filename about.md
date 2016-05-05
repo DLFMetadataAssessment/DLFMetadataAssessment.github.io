@@ -15,8 +15,8 @@ We want this website and the information contained therein to be a living docume
 
 - [submit a pull request to this website,](https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io/pulls)
 - [open a GitHub issue on this repository,](https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io/issues)
-- [comment on our working docs in this Google Drive folder,]()
-- [send a message to our Google Group,]()
-- [or join one of our call.]()
+- [comment on our working docs in this Google Drive folder,](https://drive.google.com/open?id=0B74oOQcTdnHjWk51a283bUVta0E)
+- [send a message to our Google Group,](https://groups.google.com/forum/#!forum/dlf-aig-metadata-assessment-working-group)
+- [or join one of our calls.](https://wiki.diglib.org/Assessment:Metadata)
 
 <b>Anyone and everyone is welcomed to take part in the DLF AIG Metadata Working Group. Use the links below to find out more about the group or get involved.</b>

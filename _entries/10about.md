@@ -1,7 +1,7 @@
 ---
 sectionid: about
 sectionclass: h1
-title: Metadata Working Group
+title: DLF AIG Metadata Working Group
 number: 10
 ---
 This is the website for the **[Digital Library Federation (DLF) Assessment Interest Group (AIG) Metadata Working Group](https://wiki.diglib.org/Assessment:Metadata)**, also known as the DLF Metadata Assessment Working Group.

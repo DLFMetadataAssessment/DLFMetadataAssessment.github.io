@@ -31,6 +31,10 @@ body{
         width: 100%;
     }
 
+    #menu {
+        font-family: $biko;
+    }
+
     .toggle{
         position: absolute;
         top: 5px;
@@ -74,10 +78,10 @@ h1, h2, h3, h4, h5, h6{
 h1 {
     font-size: 3.1em;
     padding: 0 0 0;
-    text-align: right;
-    border-bottom: $green 9px solid;
+    text-align: center;
+    border-bottom: $green 6px solid;
     width: 100%;
-    line-height: 0.61;
+    line-height: 1;
     margin: 0 0 20px;
 
     &:before {
@@ -96,9 +100,9 @@ h2 {
     padding: 30px 0 0;
     width: 90%;
     text-align: center;
-    border-bottom: 5px solid $green;
+    border-bottom: 3px solid $green;
     margin: 0 auto 20px;
-    line-height: 0.63;
+    line-height: 1;
 
     &:before {
         content: counter(h1-counter) "." counter(h2-counter) " ";
@@ -117,9 +121,8 @@ h3{
     padding: 20px 0 0;
     width: 90%;
     text-align: left;
-    border-bottom: 4px solid $green;
     margin: 0 auto 20px;
-    line-height: 0.65;
+    line-height: 1;
 
     &:before {
         content: counter(h1-counter) "." counter(h2-counter) "." counter(h3-counter) " ";
@@ -137,9 +140,8 @@ h4{
     padding: 18px 0 0;
     width: 90%;
     text-align: left;
-    border-bottom: 3px solid $green;
     margin: 0 auto 18px;
-    line-height: 0.67;
+    line-height: 1;
 
     &:before {
         content: counter(h1-counter) "." counter(h2-counter) "." counter(h3-counter) "." counter(h4-counter) " ";
@@ -158,9 +160,8 @@ h5{
     padding: 40px 0 0;
     width: 90%;
     text-align: left;
-    border-bottom: 2px solid $green;
     margin: 0 auto 15px;
-    line-height: 0.68;
+    line-height: 1;
 
     &:before {
         content: counter(h1-counter) "." counter(h2-counter) "." counter(h3-counter) "." counter(h4-counter) "." counter(h5-counter) " ";

@@ -3,7 +3,7 @@
         cursor: pointer;
         opacity: .8;
     }
-    
+
     @media screen and (min-width: $sidebar-collapse + 1){
         display: none;
     }
@@ -19,23 +19,24 @@
     transition: .3s all;
     background: $white;
     border-right: 3px solid $green;
-    
+
     @media screen and (max-width: $sidebar-collapse){
         left: -320px;
         transition: .3s all ease;
         transform: translate(0, 0);
         z-index: 100;
-        
+
         &.open{
             transform: translate(320px, 0);
         }
     }
-    
+
     .toggle{
         position: absolute;
         top: 5px;
         right: 5px;
         z-index: 100;
+        font-family: $biko;
     }
     ul {
         list-style: none;

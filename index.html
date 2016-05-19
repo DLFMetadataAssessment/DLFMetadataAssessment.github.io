@@ -1,11 +1,24 @@
 ---
-layout: default
+layout: index
+title: index
 ---
 
-<div class="home">
+{% assign entries = site.entries | sort: "number" %}
+{% for entry in entries %}
+    {% if entry.title != 'index'%}
+        <section id="{{ entry.sectionid }}" class="{{ entry.sectionclass }}">
+            {% case entry.sectionclass %}
+                {% when 'h1' %}
+                    <h1>{{ entry.title }}</h1>
+                {% when 'h2' %}
+                    <h2>{{ entry.title }}</h2>
+                {% when 'h3' %}
+                    <h3>{{ entry.title }}</h3>
+                {% when 'h4' %}
+                    <h4>{{ entry.title }}</h4>
+            {% endcase %}
 
-    <p>This is the working site of the Digital Library Federation's Assessment Interest Group (DLF AIG) Metadata Working Group. Find out more about the DLF AIG Metadata Working Group - or the Metadata Assessment Working Group - on the <a href="/about/">About page</a>.</p>
-
-    <p>As the first phase of our work in 2016, we pulled together a literature, tools, presentations, and organization review on the topics of metadata quality and metadata assessment. You can see our Review - which we hope to keep as a living document - on the <a href="/review/">Review page</a>.</p>
-
-</div>
+            {{ entry.content }}
+        </section>
+    {% endif %}
+{% endfor %}

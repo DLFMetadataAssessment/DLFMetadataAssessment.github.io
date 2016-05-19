@@ -1,0 +1,10 @@
+@import "mixins";
+
+@include font-face("Biko", font-files/biko/Biko_Regular);
+
+$biko: "Biko", sans-serif;
+
+$content: "Garamond", serif;
+
+$light: 100;
+$bold: 300;

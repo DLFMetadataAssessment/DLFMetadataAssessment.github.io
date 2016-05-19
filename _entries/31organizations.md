@@ -1,18 +1,14 @@
 ---
-layout: page
-title: Review
-permalink: /review/
+sectionclass: h2
+sectionid: review-orgs
+parent-id: review
+is-parent: yes
+number: 31
+title: Organizations &amp; Groups
 ---
-
-This is our first area of work for the 2016 DLF Metadata Assessment group. We performed a literature, tools, presentations, and organizations review on the topics of metadata assessment and metadata quality - with a focus on (but not limited to) digital repositories descriptive metadata.
-
-There are a number of ways you can contribute to this work; go to our [Working Draft](https://docs.google.com/document/d/1rk6TThrSqpLNk-L0JgR3lk5b_M3M8n5xM2xggKHYVUw/edit?usp=sharing) or see more places to contribute on our [About page](/about/).
-
-<h2>Organizations</h2>
-
 [Draft and Notes for this Section](https://docs.google.com/document/d/1rk6TThrSqpLNk-L0JgR3lk5b_M3M8n5xM2xggKHYVUw/edit#heading=h.ur4v6u3nkorp)
 
-<h3>Summary of Groups Working on Metadata Assessment</h3>
+<h3>Summary</h3>
 
 A wide range of groups are addressing issues related to metadata and issues related to assessment of library services, but relatively few are directly working on the assessment of metadata. Here are some organizations and resources of interest.
 
@@ -32,7 +28,8 @@ The [Hydra Metadata Interest Group](https://wiki.duraspace.org/display/hydra/Hyd
 
 Although very little directly related to metadata assessment is available from the SAA, the 2010 presentation by Joyce Celeste Chapman, [“User Feedback and Cost/Value Analysis of Metadata Creation”](http://www2.archivists.org/sites/all/files/saa_description_presentation_2010_chapman.pdf) contains many findings that merit consideration. This project studied the information seeking behavior of researchers and regarded successful searches as indicative of the value of metadata. The fields used most often by researchers were identified and the time needed to create metadata for those fields was analyzed in order to determine if the time spent creating metadata was related to the frequency of researcher use.
 
-<h3>ALA ALCTS Technical Services Directors of Large Research Libraries IG (Big Heads)</h3>
+<h3>ALA ALCTS "Big Heads"</h3>
+*(i.e. "ALA ALCTS Technical Services Directors of Large Research Libraries IG (Big Heads)")*
 
 The [Final Report of the Task Force on Cost/Value Assessment of Bibliographic Control](http://connect.ala.org/files/7981/costvaluetaskforcereport2010_06_18_pdf_77542.pdf) defines the value of metadata as:
 
@@ -48,22 +45,11 @@ The use of “ability to support the FRBR user tasks” as a criterion for asses
 
 The report found that describing the cost of metadata is extremely difficult, especially when considering the various operations that support and enable the creation of metadata. The authors acknowledge that the nebulous definitions of value outlined in the report also create challenges for defining what is meant by “cost” in this context.
 
-<h3>US Electronic Thesis and Dissertation Association (USETDA)</h3>
+<h3>USETDA</h3>
+*(i.e. "US Electronic Thesis and Dissertation Association")*
 
 The 2015 presentation [“Understanding User Discovery of ETD: Metadata or Full-Text, How Did They Get There?”](http://digital.library.unt.edu/ark:/67531/metadc725793/) describes the use of web traffic for metadata analysis. The percentage of successful searches that included terms from an item’s descriptive metadata vs. the percentage of successful searches that included terms from the full text of an item was analyzed to determine how often descriptive metadata contributed to the discovery of an item.
 
-<h3>ALCTS/LITA Metadata Standards Committee</h3>
+<h3>ALCTS/LITA Metadata Standards</h3>
 
 This joint committee has recently drafted ["Principles for Evaluating Metadata Standards"](http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/), which provides seven principles intended to apply to the "development, maintenance, governance, selection, use, and assessment of metadata standards" by LAM organizations. The principles recommend metadata standards that meet real-world needs, are open, flexible, and actively maintained, and that support network connections and interoperability. A recent committee blog post [summarizes and responds to public comments](http://metaware.buzz/2016/04/18/summary-of-comments-received-on-msc-principles-for-evaluating-metadata-standards/) made on the initial draft, with a subsequent draft expected later this spring.
-
-<h2>Presentations</h2>
-
-In progress.
-
-<h2>Publications</h2>
-
-In progress.
-
-<h2>Tools</h2>
-
-In progress.

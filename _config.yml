@@ -1,18 +1,24 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title: DLF Metadata Assessment Working Group
-email: dlf-aig-metadata-assessment-working-group@googlegroups.com
-description: > # this means to ignore newlines until "baseurl:"
-  The DLF Assessment Interest Group (DLF AIG) is forming a Metadata Working Group. This group aims to build guidelines, best practices, tools and workflows around the evaluation and assessment of metadata used by and for digital libraries and repositories. The group hopes to offer deliverables and recommendations that digital library and repository users can implement for metadata assessment and quality control.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://DLFMetadataAssessment.github.io" # the base hostname & protocol for your site
-github_username:  DLFMetadataAssessment
-
-# Build settings
+full_rebuild: true
+name: DLF Metadata Assessment Working Group
+author: DLF AIG Metadata Working Group
+version: V 1.0
+encoding: utf-8
+defaults:
+  -
+    values:
+      layout: "index"
 markdown: kramdown
+kramdown:
+  input: GFM
+relative_permalinks: false
+collections:
+- entries
+sass:
+  sass_dir: _sass
+  style: :compressed
+exclude: [
+.git,
+.gitignore,
+README.md,
+.sass-cache
+]

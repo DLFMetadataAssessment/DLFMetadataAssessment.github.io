@@ -20,3 +20,10 @@ Thumbs.db
 venv
 node_modules
 .sass-cache
+/bower_components/
+/node_modules/
+/_site/
+/.sass-cache/
+/.jekyll-metadata
+/.brackets.json
+/Gemfile

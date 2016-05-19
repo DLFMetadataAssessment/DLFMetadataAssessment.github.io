@@ -2,7 +2,23 @@
 
 ## Intro
 
-This site was developed by the [Digital Library Federation Assessment Interest Group Metadata Assessment Working Group](https://groups.google.com/forum/#!forum/dlf-aig-metadata-assessment-working-group).
+This site was developed by the [Digital Library Federation Assessment Interest Group Metadata Assessment Working Group](https://groups.google.com/forum/#!forum/dlf-aig-metadata-assessment-working-group), a.k.a. the DLF Metadata Assessment Working Group.
+
+We want this website and the information contained therein to be a living document. Working Group members will continue to add resources, recommendations, and information to this website as well as to our working documents. If you want to make a comment, suggestion, correction or update, you can:
+  
+  *[submit a pull request to this website](https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io/pulls),
+
+  *[open a GitHub issue on this repository](https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io/issues),
+
+  *[comment on our working docs in this Google Drive folder](https://drive.google.com/open?id=0B74oOQcTdnHjWk51a283bUVta0E),
+
+  *[send a message to our Google Group](https://groups.google.com/forum/#!forum/dlf-aig-metadata-assessment-working-group),
+
+  *[join one of our calls](https://wiki.diglib.org/Assessment:Metadata).
+
+Anyone and everyone is welcomed to take part in the DLF AIG Metadata Working Group. Use the link below to find out more about the group or get involved.
+
+  *[our DLF wiki page](https://wiki.diglib.org/Assessment:Metadata)
 
 ## About Jekyll
 
@@ -15,6 +31,7 @@ This is a group effort and we welcome any and all contributions. This document i
 
 See a list of [outstanding issues](https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io/issues). The following example uses "issue#3" as a subject. That's the branch name used in the commit message.
 
+
 ### Here's how to get started and contribute:
 
 #### The first time you want to contribute
@@ -22,7 +39,7 @@ See a list of [outstanding issues](https://github.com/DLFMetadataAssessment/DLFM
 You'll need:
 	
 1. Git
-2. Ruby > 2.0 
+2. Ruby version between 2.0 and 2.2
 3. Rubygems
 4. Bundler
 5. Jekyll

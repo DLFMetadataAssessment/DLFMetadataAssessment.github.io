@@ -71,7 +71,7 @@ h1, h2, h3, h4, h5, h6{
     text-transform: uppercase;
     font-weight: $bold;
     line-height: 1;
-    color: $green;
+    color: $blue;
     font-family: $biko;
 }
 
@@ -79,7 +79,7 @@ h1 {
     font-size: 3.1em;
     padding: 0 0 0;
     text-align: center;
-    border-bottom: $green 6px solid;
+    border-bottom: $blue 6px solid;
     width: 100%;
     line-height: 1;
     margin: 0 0 20px;
@@ -100,7 +100,7 @@ h2 {
     padding: 30px 0 0;
     width: 90%;
     text-align: center;
-    border-bottom: 3px solid $green;
+    border-bottom: 3px solid $blue;
     margin: 0 auto 20px;
     line-height: 1;
 
@@ -171,11 +171,11 @@ h5{
 
 a{
     transition: .3s all;
-    color: $green;
+    color: $blue;
     text-decoration: none;
 
     .content &{
-        border-bottom: $darkgreen 1px solid;
+        border-bottom: $darkblue 1px solid;
         padding: 0px 2px;
 
         &:hover{
@@ -184,7 +184,7 @@ a{
     }
 
     &:hover{
-        color: $darkgreen;
+        color: $darkblue;
     }
 }
 

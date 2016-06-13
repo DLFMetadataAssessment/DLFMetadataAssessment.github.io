@@ -22,7 +22,7 @@ Anyone and everyone is welcomed to take part in the DLF AIG Metadata Working Gro
 
 ## About Jekyll
 
-[Jekyll](http://jekyllrb.com) is a Rails gem that generates static websites from markdown, HTML, and other formats. See the [official Jekyll documentation](http://jekyllrb.com/docs/home/) for details. 
+[Jekyll](http://jekyllrb.com) is a Rails gem that generates static websites from markdown, HTML, and other formats. See the [official Jekyll documentation](http://jekyllrb.com/docs/home/) for details and instructions on how to install. There is also a comprehensive guide to installing Jekyll on a Windows machine available [here](http://jekyll-windows.juthilo.com/). 
 
 
 ## Contributing

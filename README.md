@@ -27,7 +27,7 @@ Anyone and everyone is welcomed to take part in the DLF AIG Metadata Working Gro
 
 ## Contributing
 
-This is a group effort and we welcome any and all contributions. This document includes the basics to get you started, but if you get stuck, please contact a group member. We'd love to improve the documentation to make it easier for everyone to contribute.
+This is a group effort and we welcome any and all contributions. This document includes the basics to get you started, but if you get stuck, please contact a group member. We'd love to improve the documentation to make it easier for everyone to contribute. If you're new to GitHub, we recommend an [introduction to the GitHub flow](https://guides.github.com/introduction/flow/) and [simple steps for getting started in GitHub](https://guides.github.com/activities/hello-world/). 
 
 See a list of [outstanding issues](https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io/issues). The following example uses "issue#3" as a subject. That's the branch name used in the commit message.
 

@@ -12,6 +12,35 @@ title: Tools
 
 Being written.
 
+<h4>How to Read Our Environmental Scan for Tools Document</h4>
+
+***Work in Progress**
+
+Tools selected as part of the environmental scan are described in [this spreadsheet](https://docs.google.com/spreadsheets/d/1PCi_3pcWSFQ9fR54AxwO7LWuBUu2vbVw1etvw_UAl5g/edit?usp=sharing). Below are definitions of the column headers used to arrange details about each of these tools.
+
+<h5>Tools Overview Tab</h5>
+| Columns        | Definitions           | Values  |
+| ------------- |:-------------:| -----:|
+| Lit Review ID     | right-aligned | $1600 |
+| Assessment Grouping      | centered      |   $12 |
+| Tool Name | are neat      |    $1 |
+| Designed For | are neat      |    $1 |
+| Tool Name | are neat      |    $1 |
+| Tool Name | are neat      |    $1 |
+| Tool Name | are neat      |    $1 |
+
+
+- Lit Review ID: 
+- Assessment grouping: 
+- Tool Name: 
+- Designed for: 
+- Type: 
+- URL:
+- Abstract:
+- Other: 
+- Tool Creator/Maintainer: 
+- Tool Org Association:
+
 <h3>GUI Tools for Assessing Metadata</h3>
 
 <h4>NCDHC DPLA Aggregation tools</h4>

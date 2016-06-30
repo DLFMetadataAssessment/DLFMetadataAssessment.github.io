@@ -8,7 +8,9 @@ title: Presentations
 ---
 [Draft and Notes for this Section](https://docs.google.com/document/d/1rk6TThrSqpLNk-L0JgR3lk5b_M3M8n5xM2xggKHYVUw/edit#heading=h.mymr4zhj8h6q)
 
-<h3>Presentations in 2003</h3>
+Presentations collected are organized below from earliest to most current. If you have a presentation or description to add, please see the <a href="#take-part">Take Part</a> section - and thank you!
+
+<h3>2003</h3>
 
 <h4>DLF Forum</h4>
 
@@ -16,7 +18,7 @@ title: Presentations
 
 <p>An interesting looking at early metadata quality control/assessment.</p>
 
-<h3>Presentations in 2015</h3>
+<h3>2015</h3>
 
 <h4>DPLAFest</h4>
 
@@ -70,7 +72,7 @@ title: Presentations
 
 <p>A look at semantic enrichment tools and their effectiveness within. Covers an overview and evaluation of the why and what of semantic enrichment, using the Europeana Cultural Heritage domain as an example. See the <a href="http://pro.europeana.eu/files/Europeana_Professional/EuropeanaTech/EuropeanaTech_taskforces/Enrichment_Evaluation/FinalReport_EnrichmentEvaluation_102015.pdf">Report on Enrichment and Evaluation.</a></p>
 
-<h3>Presentations in 2016</h3>
+<h3>2016</h3>
 
 <h4>Code4Lib</h4>
 

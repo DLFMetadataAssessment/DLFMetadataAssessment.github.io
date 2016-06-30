@@ -21,25 +21,18 @@ Tools selected as part of the environmental scan are described in [this spreadsh
 <h5>Tools Overview Tab</h5>
 | Columns        | Definitions           | Values  |
 | ------------- |:-------------:| -----:|
-| Lit Review ID     | right-aligned | $1600 |
-| Assessment Grouping      | centered      |   $12 |
-| Tool Name | are neat      |    $1 |
-| Designed For | are neat      |    $1 |
-| Tool Name | are neat      |    $1 |
-| Tool Name | are neat      |    $1 |
-| Tool Name | are neat      |    $1 |
+| Lit Review ID     | |  |
+| Assessment Grouping      |      |    |
+| Tool Name |       |     |
+| Designed For |       |     |
+| Type |      |     |
+| URL |       |     |
+| Abstract |       |     |
+| Other |       |     |
+| Tool Creator/Maintainer |      |     |
+| Tool Organization Association |       |     |
 
 
-- Lit Review ID: 
-- Assessment grouping: 
-- Tool Name: 
-- Designed for: 
-- Type: 
-- URL:
-- Abstract:
-- Other: 
-- Tool Creator/Maintainer: 
-- Tool Org Association:
 
 <h3>GUI Tools for Assessing Metadata</h3>
 

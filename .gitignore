@@ -22,6 +22,7 @@ node_modules
 .sass-cache
 /bower_components/
 /node_modules/
+_site/
 ./_site/
 ./.sass-cache/
 /.jekyll-metadata

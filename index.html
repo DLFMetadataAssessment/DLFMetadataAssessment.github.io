@@ -18,7 +18,9 @@ title: index
                     <h4>{{ entry.title }}</h4>
             {% endcase %}
 
-            {{ entry.content }}
+						{{ entry.content }}
+						<p class="modified">Section last modified  {{entry.path | file_date |date_to_string}}</p>
         </section>
     {% endif %}
-{% endfor %}
+		{% endfor %}
+		<section id="foot_center">Page last modified	{{page.path | file_date |date_to_string}}</section>

@@ -20,4 +20,5 @@ exclude: [
 .git,
 .gitignore,
 README.md,
-.sass-cache]
+.sass-cache
+]

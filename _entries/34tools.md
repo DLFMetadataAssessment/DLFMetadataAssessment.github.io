@@ -29,7 +29,18 @@ Tools selected as part of the environmental scan are described in [this spreadsh
 | Other |Additional notes field.       |Free text     |
 | Tool Creator/Maintainer |Individual or organization responsible for tool creation and/or maintenance      |Free text     |
 
-
+<h5>Tools Detail Tab</h5>
+| Columns        | Definitions           | Values  |
+| ------------- |-------------| -----|
+| Lit Review ID     |Identifier to track Tool description across multiple tabs |MA-### (abbreviation for Metadata Assessment with incrementing number)  |
+| Tool Name |Name of the tool assessed       |Free text     |
+| Source code / download URL | Destination for source code or download      | URL    |
+| Documentation |Destination for tool documentation      |URL     |
+| GUI | Designates if tool has a graphical user interface      |y,n     |
+| CLI |Designates if tool is available for the command line     |y, n    |
+| Free? |Designates if tool is freely available       |y, n    |
+| OSS or proprietary |Designates if tool is open source or proprietary      |OSS, proprietary    |
+| Written in.. |Programming language tool is written in     |Free text     |
 
 <h3>GUI Tools for Assessing Metadata</h3>
 

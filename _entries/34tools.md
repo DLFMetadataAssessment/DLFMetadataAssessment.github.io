@@ -10,7 +10,14 @@ title: Tools
 
 <h3>Summary</h3>
 
-Being written.
+The DLF Metadata Asessement group surveyed and analyzed:
+- general data tools,
+- cultural heritage institution metadata-specific tools,
+- programming languages/libraries that support metadata-specific activities, and
+- datasets and dataset aggregators.
+
+The 2016 envirnonmental scan captures information about the use, status, and application of 20 tools. 
+
 
 <h4>How to Read Our Environmental Scan for Tools Document</h4>
 

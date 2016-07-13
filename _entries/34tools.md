@@ -14,23 +14,20 @@ Being written.
 
 <h4>How to Read Our Environmental Scan for Tools Document</h4>
 
-***Work in Progress**
-
 Tools selected as part of the environmental scan are described in [this spreadsheet](https://docs.google.com/spreadsheets/d/1PCi_3pcWSFQ9fR54AxwO7LWuBUu2vbVw1etvw_UAl5g/edit?usp=sharing). Below are definitions of the column headers used to arrange details about each of these tools.
 
 <h5>Tools Overview Tab</h5>
 | Columns        | Definitions           | Values  |
-| ------------- |:-------------:| -----:|
-| Lit Review ID     | |  |
-| Assessment Grouping      |      |    |
-| Tool Name |       |     |
-| Designed For |       |     |
-| Type |      |     |
-| URL |       |     |
-| Abstract |       |     |
-| Other |       |     |
-| Tool Creator/Maintainer |      |     |
-| Tool Organization Association |       |     |
+| ------------- |-------------| -----|
+| Lit Review ID     |Identifier to track Tool description across multiple tabs |MA-### (abbreviation for Metadata Assessment with incrementing number)  |
+| Assessment Grouping      |Description of emerging trends identified in the group's literature review which tool supports/could support      |Free text    |
+| Tool Name |Name of the tool assessed       |Free text     |
+| Designed For | Description of intended use based on documentation or user feedback      | efficiency and assessment across large datasets, assessing metadata, statistical computing, graphics, integrated development environment (IDE), data visualization, business intelligence, sharing and testing [datasets]    |
+| Type |Type of tool assessed      |programming language or library, stand-alone script, tool, tools package, dataset, computing framework     |
+| URL | General URL for tool or tool information      |URL     |
+| Abstract |Brief summary of the tool, its significant characteristics and relevant considerations       |Free text     |
+| Other |Additional notes field.       |Free text     |
+| Tool Creator/Maintainer |Individual or organization responsible for tool creation and/or maintenance      |Free text     |
 
 
 

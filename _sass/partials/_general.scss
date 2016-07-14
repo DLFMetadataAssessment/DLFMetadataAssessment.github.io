@@ -51,11 +51,22 @@ section{
     > p,
     > ul,
     > ol,
-    > div{
+    > div {
         text-align: justify;
         padding-left: 5%;
         padding-right: 5%;
         box-sizing: border-box;
+    }
+
+    table {
+        padding-left: 5%;
+        padding-right: 5%;
+        text-align: center;
+
+        > th, td  {
+            padding: 10px;
+            border: 2px solid #dddddd;
+        }
     }
 
     pre {

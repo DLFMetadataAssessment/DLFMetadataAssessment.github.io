@@ -20,19 +20,35 @@ Anyone and everyone is welcomed to take part in the DLF AIG Metadata Working Gro
 
   * [our DLF wiki page](https://wiki.diglib.org/Assessment:Metadata)
 
-## About Jekyll
+## Contributing via this GitHub Repository
 
-[Jekyll](http://jekyllrb.com) is a Rails gem that generates static websites from markdown, HTML, and other formats. See the [official Jekyll documentation](http://jekyllrb.com/docs/home/) for details and instructions on how to install. There is also a comprehensive guide to installing Jekyll on a Windows machine available [here](http://jekyll-windows.juthilo.com/). 
+This is a group effort and we welcome any and all contributions. This information belows includes the basics to get you started with making change requests directly to this repository. If you get stuck, please contact a group member. We'd love to improve the documentation to make it easier for everyone to contribute. 
 
+## Practices for Contributing to this Repository
 
-## Contributing
+**Branch Names**
 
-This is a group effort and we welcome any and all contributions. This document includes the basics to get you started, but if you get stuck, please contact a group member. We'd love to improve the documentation to make it easier for everyone to contribute. If you're new to GitHub, we recommend an [introduction to the GitHub flow](https://guides.github.com/introduction/flow/) and [simple steps for getting started in GitHub](https://guides.github.com/activities/hello-world/). 
+Once an issue is raised in our GitHub repository, we create a branch with a name based on the issue number it is addressing, i.e. 'issue#1'. The pull request generated to fix Issue 1 is then the merging of that branch into the **master** branch, which feeds into the Github.io website. 
 
-See a list of [outstanding issues](https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io/issues). The following example uses "issue#3" as a subject. That's the branch name used in the commit message.
+You can see and comment on a list of [outstanding issues](https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io/issues). 
 
+The examples and walk through of GitHub and Jekyll below uses "issue#3" as a subject. That's the branch name used in the commit message.
 
-### Here's how to get started and contribute:
+**Pull Requests**
+
+Once you have committed your changes to your branch for a particular issue, submit a pull request to have your changes reviewed. It will be merged by another member of the group. We request that nobody merges their own pull requests. 
+
+If your pull request sits for a while, you can submit an email to the [Google Group](https://groups.google.com/forum/#!forum/dlf-aig-metadata-assessment-working-group) asking for it to be reviewed.
+
+### About GitHub
+
+If you're new to GitHub, we recommend an [introduction to the GitHub flow](https://guides.github.com/introduction/flow/) and [simple steps for getting started in GitHub](https://guides.github.com/activities/hello-world/). 
+
+### About Jekyll
+
+This site is built with Jekyll. [Jekyll](http://jekyllrb.com) is a Rails gem that generates static websites from markdown, HTML, and other formats. See the [official Jekyll documentation](http://jekyllrb.com/docs/home/) for details and instructions on how to install. There is also a comprehensive guide to installing Jekyll on a Windows machine available [here](http://jekyll-windows.juthilo.com/). 
+
+### Here's how to make a Git Pull Request for this Jekyll site:
 
 #### The first time you want to contribute
 

@@ -12,9 +12,9 @@ title: Publications
 
 The group surveyed more than 50 documents produced between 2002 to 2016, ranging from journal articles, white papers, and reports to blog posts and wikis.
 
-Bruce and Hillman’s 2004 article, “The Continuum of Metadata Quality,” which defines a framework with seven categories of metadata quality (completeness, accuracy, conformance to expectations, logical consistency, accessibility, timeliness, provenance), is particularly noteworthy for influencing the subject’s subsequent exploration.
+Bruce and Hillmann’s 2004 article, “The Continuum of Metadata Quality,” which defines a framework with seven categories of metadata quality (completeness, accuracy, conformance to expectations, logical consistency, accessibility, timeliness, provenance), is particularly noteworthy for influencing the subject’s subsequent exploration.
 
-In 2013, Hillman and Bruce revisited their original framework in the context of the linked open data environment, highlighting additional considerations such as licensing, correct/consistent data modeling, and the implications of linked data technology on definitions of metadata quality. Exploring what metadata quality means in large-scale aggregators, such as Europeana and DPLA, is another topic found in recent work.
+In 2013, Hillmann and Bruce revisited their original framework in the context of the linked open data environment, highlighting additional considerations such as licensing, correct/consistent data modeling, and the implications of linked data technology on definitions of metadata quality. Exploring what metadata quality means in large-scale aggregators, such as Europeana and DPLA, is another topic found in recent work.
 
 Metadata assessment involves articulating conceptual criteria and frameworks as well as developing actionable methods to collect specific information about collections. The documents we surveyed tend to focus on the following themes:
 
@@ -24,7 +24,7 @@ Metadata assessment involves articulating conceptual criteria and frameworks as 
 - - --  Measurement of auditing quality
 - - --  Considerations for shared metadata
 
-A common theme across the publications we reviewed is the subjective nature of “quality,” since its definition is dependent upon local context and content as well as institutional goals. According to Hillman and Bruce (2013), conceptual criteria are “the lenses that help us know quality when we see it.” Through building a community of practice for assessing metadata quality, we will be better positioned to have a shared vision, one that provides for the sustainability of our resources and meets the needs of our users and systems.
+A common theme across the publications we reviewed is the subjective nature of “quality,” since its definition is dependent upon local context and content as well as institutional goals. According to Hillmann and Bruce (2013), conceptual criteria are “the lenses that help us know quality when we see it.” Through building a community of practice for assessing metadata quality, we will be better positioned to have a shared vision, one that provides for the sustainability of our resources and meets the needs of our users and systems.
 
 <h3>Publications of Note</h3>
 

@@ -22,7 +22,9 @@ The 2016 environmental scan captures information about the use, status, and appl
 
 <h4>How to Read Our Tools Document</h4>
 
-Tools selected as part of the environmental scan are described in [this spreadsheet](https://docs.google.com/spreadsheets/d/1PCi_3pcWSFQ9fR54AxwO7LWuBUu2vbVw1etvw_UAl5g/edit?usp=sharing). Below are definitions of the column headers used to arrange details about each of these tools.
+The [Tools Documentation](https://docs.google.com/spreadsheets/d/1PCi_3pcWSFQ9fR54AxwO7LWuBUu2vbVw1etvw_UAl5g/edit?usp=sharing) is intended to aid the evaluation of tools for potential use in metadata assessment. 
+
+The documentation presents general information about each tool, such as its purpose and type along with a descriptive summary and URL. The documentation also provides details that may influence adoption, such as technical requirements, support, and budgetary considerations. Links to source code and documentation are included for further research. 
 
 <h5>Tools Overview Sheet</h5>
 
@@ -36,12 +38,6 @@ Tools selected as part of the environmental scan are described in [this spreadsh
 | Abstract |Brief summary of the tool, its significant characteristics and relevant considerations |Free text |
 | Other |Additional notes field. |Free text |
 | Tool Creator/Maintainer | Individual or organization responsible for tool creation and/or maintenance |Free text |
-
-<h5>Tools Detail Sheet</h5>
-
-| **Columns** | **Definitions** | **Values** |
-| Lit Review ID |Identifier to track Tool description across multiple tabs |MA-### (abbreviation for Metadata Assessment with incrementing number) |
-| Tool Name |Name of the tool assessed |Free text |
 | Source code / download URL | Destination for source code or download | URL |
 | Documentation |Destination for tool documentation | URL |
 | GUI | Designates if tool has a graphical user interface | y,n |
@@ -50,24 +46,35 @@ Tools selected as part of the environmental scan are described in [this spreadsh
 | OSS or proprietary |Designates if tool is open source or proprietary | OSS, proprietary |
 | Written in... | Programming language tool is written in | Free text |
 
-<h3>List of Tools &amp; Sample Datasets Assessed</h3>
 
-- - --  North Carolina Digital Heritage Center DPLA Aggregation tools
-- - --  OpenRefine
+<h3>List of Tools &amp; Sample Datasets to be Assessed</h3>
+
+- - --  Anaconda distribution of Python
+- - --  Apache Spark
+- - --  Completeness Rating in Europeana
+- - --  D3
+- - --  Digital Public Library of America: Bulk Metadata Download Feb 2015
+- - --  Google Analytics
+- - --  Hadoop
+- - --  Internet Archive Dataset Collection
 - - --  LODrefine
 - - --  Mark Phillips' Metadata Breakers
-- - --  Completeness Rating in Europeana
-- - --  SPSS
-- - --  Tableau
+- - --  North Carolina Digital Heritage Center DPLA Aggregation tools
+- - --  OpenRefine
+- - --  Plot.ly
+- - --  Python pandas
 - - --  R
 - - --  R Studio
-- - --  D3
-- - --  Plot.ly
-- - --  Anaconda distribution of Python
-- - --  Python pandas
-- - --  Apache Spark
-- - --  Hadoop
-- - --  Google Analytics
-- - --  Digital Public Library of America: Bulk Metadata Download Feb 2015
+- - --  SPSS
+- - --  Tableau
 - - --  UNT Libraries Metadata Edit Dataset
-- - --  Internet Archive Dataset Collection
+
+<h3>Tools Overview Visualization</h3>
+
+The following chart provides a quick overview of the types of tools selected for review. Many are standalone tools or programming languages; others are tools packages, standalone scripts, or computing frameworks.
+
+<img src="/img/toolsselected.png"/>
+
+The tools we reviewed also reflect the variety of work associated with metadata assessment. Many are designed to help with assessment across large datasets, while others reflect the work of sharing and testing, statistical computing, or data visualization.
+
+<img src="/img/toolsdesigned.png"/>

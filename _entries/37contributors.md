@@ -8,6 +8,10 @@ number: 37
 	
 - - --  Janet Ahrberg 
 - - --  Shaun Akhtar
+<<<<<<< HEAD
+- - --  Shawn Averkamp
+=======
+>>>>>>> master
 - - --  Filipe Bento
 - - --  Molly Bragg
 - - --  Anne Caldwell

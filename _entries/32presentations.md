@@ -14,7 +14,7 @@ Presentations collected are organized below from earliest to most current. If yo
 
 <h4>DLF Forum</h4>
 
-<p><em>Cushman Exposed! Exploiting Controlled Vocabularies to Enhance Browsing and Searching of an Online Photograph Collection</em><br/>Dalmau, Michelle; Riley, Jenn.<br/><a href="http://www.dlib.indiana.edu/~jenlrile/presentations/dlfSpring2003/CushmanExposed4.pdf">Slides</a></p>
+<p><em>Cushman Exposed! Exploiting Controlled Vocabularies to Enhance Browsing and Searching of an Online Photograph Collection</em><br/>Dalmau, Michelle; Riley, Jenn.<br/><a href="http://www.slideshare.net/jenlrile/cushman-brownbag">Slides</a></p>
 
 <p>An interesting looking at early metadata quality control/assessment.</p>
 

@@ -5,13 +5,9 @@ is-parent: yes
 title: 2016 Contributors
 number: 37
 ---
-	
-- - --  Janet Ahrberg 
+
+- - --  Janet Ahrberg
 - - --  Shaun Akhtar
-<<<<<<< HEAD
-- - --  Shawn Averkamp
-=======
->>>>>>> master
 - - --  Filipe Bento
 - - --  Molly Bragg
 - - --  Anne Caldwell
@@ -41,7 +37,7 @@ number: 37
 - - --  Andrea Leonard
 - - --  Karen Majewicz
 - - --  Bill McMillin
-- - --  Timothy Ryan Mendenhall 
+- - --  Timothy Ryan Mendenhall
 - - --  Amelia Mowry
 - - --  Jeremy Myntti
 - - --  Anna Neatrour
@@ -52,13 +48,13 @@ number: 37
 - - --  Erik Radio
 - - --  Hilary Robbeloth
 - - --  Wendy Robertson
-- - --  Domenic Rosati 
+- - --  Domenic Rosati
 - - --  Jason Roy
 - - --  Sara Rubinow
 - - --  Melissa Rucker
 - - --  Sibyl Schaefer
 - - --  Matt Schultz
-- - --  Sarah Beth Seymore 
+- - --  Sarah Beth Seymore
 - - --  Debra Shapiro
 - - --  Amber Sherman
 - - --  Laura Smart

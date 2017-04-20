@@ -19,6 +19,7 @@ GEM
     faraday (0.9.2)
       multipart-post (>= 1.2, < 3)
     ffi (1.9.10)
+    ffi (1.9.10-x64-mingw32)
     ffi (1.9.10-x86-mingw32)
     gemoji (2.1.0)
     github-pages (82)
@@ -98,6 +99,8 @@ GEM
     net-dns (0.8.0)
     nokogiri (1.6.7.2)
       mini_portile2 (~> 2.0.0.rc2)
+    nokogiri (1.6.7.2-x64-mingw32)
+      mini_portile2 (~> 2.0.0.rc2)
     nokogiri (1.6.7.2-x86-mingw32)
       mini_portile2 (~> 2.0.0.rc2)
     octokit (4.3.0)
@@ -121,10 +124,11 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
   x86-mingw32
 
 DEPENDENCIES
   github-pages
 
 BUNDLED WITH
-   1.12.3
+   1.14.6

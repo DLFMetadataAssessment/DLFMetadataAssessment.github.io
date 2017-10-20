@@ -18,13 +18,10 @@ Thumbs.db
 
 # Application specific files
 venv
+bower_components
 node_modules
-.sass-cache
-/bower_components/
-/node_modules/
-_site/
-./_site/
-./.sass-cache/
-/.jekyll-metadata
-/.brackets.json
-/Gemfile
+#_site/
+#.sass-cache/
+.jekyll-metadata
+.brackets.json
+Gemfile

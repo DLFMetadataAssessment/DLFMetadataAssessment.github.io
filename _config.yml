@@ -6,7 +6,7 @@ encoding: utf-8
 defaults:
   -
     values:
-      layout: "index"
+      layout: "default"
 markdown: kramdown
 kramdown:
   input: GFM
@@ -20,5 +20,9 @@ exclude: [
 .git,
 .gitignore,
 README.md,
-.sass-cache
+.sass-cache,
+config.ru,
+vendor,
+Gemfile,
+Gemfile.lock
 ]

@@ -1,28 +1,13 @@
 <ul id="nav">
-    {% assign level-1 = site.entries | where: "sectionclass", "h1" | sort: "number"%}
-    {% for entry in level-1 %}
-    <li {% if entry.is-parent or forloop.first %} class="{% if entry.is-parent %}parent{% endif %}{% if forloop.first %} current{% endif %}"{% endif %}>
-        <a href="#{{ entry.sectionid }}">{{ entry.title }}</a>
-        {% if entry.is-parent %}
-            <ul>
-                {% assign level-2 = site.entries | where: "parent-id", entry.sectionid | sort: "number" %}
-                {% for child in level-2 %}
-                    <li {% if child.is-parent %}class="parent"{% endif %}>
-                        <a href="#{{ child.sectionid }}">{{ child.title }}</a>
-                        {% if child.is-parent %}
-                            <ul>
-                                {% assign level-3 = site.entries | where: "parent-id", child.sectionid | sort: "number" %}
-                                {% for grandchild in level-3 %}
-                                <li>
-                                    <a href="#{{ grandchild.sectionid }}">{{ grandchild.title }}</a>
-                                </li>
-                                {% endfor %}
-                            </ul>
-                        {% endif %}
-                    </li>
-                {% endfor %}
-            </ul>
-        {% endif %}
-    </li>
-    {% endfor %}
+  <li><a href="/">DLF AIG Metadata Working Group Toolkit</a></li>
+  <li><a href="/entries/about">About &amp; Contact</a></li>
+  <li><a href="/entries/take-part">Participate</a></li>
+  <!-- <li><a href="/why.html">Importance of Metadata Assessment</a></li>-->
+  <li><a href="/EnvironmentalScan/">Environmental Scan</a></li>
+  <li><a href="/Framework">Metadata Assessment Framework</a></li>
+  <li><a href="/Tools">Tools for Metadata Assessment</a></li>
+  <li><a href="/MetadataSpecsClearinghouse">Metadata Profiles &amp; Mappings Clearinghouse</a></li>
+  <!-- <li><a href="/resources.html">Glossary &amp; Resources</a></li> -->
+  <li><a href="/entries/collaborations">Collaborations</a></li>
+  <li><a href="/entries/contributors">Contributors</a></li>
 </ul>

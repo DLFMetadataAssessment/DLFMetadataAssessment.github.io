@@ -10,34 +10,34 @@ title: contributors
 
 This list of contributors was created based on the lists of people who attended either the regular Metadata Working Group meeting or any of the subgroup meetings.
 
-- - --  Laura Akerman
+- - --  Laura Akerman (member, Tools subgroup)
 - - --  Shaun Akhtar
 - - --  Damian Biagi
-- - --  Scott Carlson
-- - --  Maggie Dickson
-- - --  Kate Flynn
+- - --  Scott Carlson (leader, Metadata Application Profile Clearinghouse Project subgroup; member, Metadata Analysis Workshop subgroup; member, Website subgroup)
+- - --  Maggie Dickson (member, Framework subgroup)
+- - --  Kate Flynn (co-facilitator; member, Metadata Analysis Workshop subgroup; leader, Tools subgroup; member, Website subgroup)
 - - --  Paloma Graciani
-- - --  Kathryn Gronsbell
-- - --  Gretchen Gueguen
-- - --  Julie Hardesty
-- - --  Christina Harlow
+- - --  Kathryn Gronsbell (member, Framework subgroup)
+- - --  Gretchen Gueguen (leader, Metadata Analysis Workshop subgroup; member, Metadata Application Profile Clearinghouse Project subgroup)
+- - --  Julie Hardesty (member, Website subgroup)
+- - --  Christina Harlow (co-facilitator; member, Metadata Analysis Workshop subgroup; member, Website subgroup)
 - - --  Andrea Leonard
-- - --  Bill McMillin
+- - --  Bill McMillin (member, Website subgroup)
 - - --  Darnelle Melvin
 - - --  Ryan Mendenhall
-- - --  Amelia Mowry
-- - --  Anna Neatrour
+- - --  Amelia Mowry (member, Tools subgroup)
+- - --  Anna Neatrour (member, Framework subgroup; member, Website subgroup)
 - - --  Joy P.
-- - --  Diane Page
+- - --  Diana Page
 - - --  Suzanne Pilsk
 - - --  Susan Ponischil
-- - --  Sara Rubinow
-- - --  Bethany Scott
+- - --  Sara Rubinow (leader, Framework subgroup; member, Website subgroup)
+- - --  Bethany Scott (member, Framework subgroup)
 - - --  Jeanette Sewell
-- - --  Jacob Shelby
-- - --  Laura Smart
+- - --  Jacob Shelby (member, Tools subgroup)
+- - --  Laura Smart (member, Metadata Analysis Workshop subgroup)
 - - --  Ayla Stein
-- - --  Hannah Stitzlein
+- - --  Hannah Stitzlein (member, Metadata Analysis Workshop subgroup)
 - - --  Hannah Tarver
 - - --  Becky Wolsk
 

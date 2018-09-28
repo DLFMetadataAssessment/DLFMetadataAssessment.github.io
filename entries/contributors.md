@@ -6,6 +6,53 @@ title: contributors
 
 <h1>DLF AIG MWG Metadata Assessment Toolkit</h1>
 <h2>Contributors</h2>
+
+<h3>2018</h3>
+This list of contributors was created based on the lists of people who attended either the regular Metadata Working Group meeting or any of the subgroup meetings.
+
+- - --  Shaun Akhtar
+- - --  Jeremy Bartczak (leader, Tools subgroup)
+- - --  Liz Bodian
+- - --  Scott Carlson
+- - --  Anastasia Chiu
+- - --  Dennis Christman
+- - --  Jenn Colt
+- - --  Maggie Dickson
+- - --  Leanne Finnegan
+- - --  Kate Flynn (co-facilitator)
+- - --  Kate Gerrity
+- - --  Anna Goslen
+- - --  Paloma Graciani-Picardo
+- - --  Kathryn Gronsbell (leader, Website subgroup)
+- - --  Gretchen Gueguen (leader, Metadata Application Profile Clearinghouse Project subgroup)
+- - --  Julie Hardesty
+- - --  Teresa Hebron
+- - --  Daniel Jergovic
+- - --  Andrea Leonard (leader, Benchmarks subgroup)
+- - --  Lisa McFall
+- - --  Bill McMillin
+- - --  Paige Morfitt
+- - --  Amelia Mowry (leader, Tools subgroup)
+- - --  Anna Neatrour (co-facilitator; leader, Workshop subgroup; leader, Metadata Application Profile Clearinghouse Project subgroup)
+- - --  Andrea Payant
+- - --  Suzanne Pilsk
+- - --  Alexandra Provo
+- - --  Johanna Radding
+- - --  Bryan Ricupero
+- - --  Ken Rockwell
+- - --  Sara Rubinow
+- - --  Amy Rudersdorf
+- - --  Hannah Scates Kettler
+- - --  Jacob Shelby
+- - --  Laura Smart
+- - --  Hannah Tarver
+- - --  P. Thomas Lacey
+- - --  Clara Turp
+- - --  Luiza Wainer
+- - --  Andy Weidner
+- - --  Manda Wise Pizzollo
+- - --  Rachel Wittmann (leader, Benchmarks subgroup)
+
 <h3>2017</h3>
 
 This list of contributors was created based on the lists of people who attended either the regular Metadata Working Group meeting or any of the subgroup meetings.

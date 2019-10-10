@@ -1,4 +1,10 @@
-#DLF-AIG Metadata Assessment Working Group
+# DLF-AIG Metadata Assessment Working Group
+
+**This is the Sandbox or Development site for the DLF AIG Metadata Working Group Website & Toolkit. The Sandbox deploys to https://dlfaigmwgdev.herokuapp.com/ for viewing.**
+
+**See the Live/Production/Current site at http://dlfmetadataassessment.github.io/ and the Repository for the live site at https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io/**
+
+**We decided to create a new repository for this Sandbox (instead of development locally for the site) due to the breaking nature of some of the requested changes in 2017 to our group's output.**
 
 ## Intro
 
@@ -22,7 +28,7 @@ Anyone and everyone is welcomed to take part in the DLF AIG Metadata Working Gro
 
 ## Contributing via this GitHub Repository
 
-This is a group effort and we welcome any and all contributions. This information below includes the basics to get you started with making change requests directly to this repository. If you get stuck, please contact a group member. We'd love to improve the documentation to make it easier for everyone to contribute. 
+This is a group effort and we welcome any and all contributions. This information below includes the basics to get you started with making change requests directly to this repository. If you get stuck, please contact a group member. We'd love to improve the documentation to make it easier for everyone to contribute.
 
 ## Practices for Contributing to this Repository
 
@@ -39,6 +45,10 @@ The examples and walk through of GitHub and Jekyll below uses "issue#3" as a sub
 Once you have committed your changes to your branch for a particular issue, submit a pull request to have your changes reviewed. It will be merged by another member of the group. We request that nobody merges their own pull requests.
 
 If your pull request sits for a while, you can submit an email to the [Google Group](https://groups.google.com/forum/#!forum/dlf-aig-metadata-assessment-working-group) asking for it to be reviewed.
+
+**Deployment to Heroku**
+
+This repository has been set up to automatically deploy any new changes done to the master branch to our [Heroku sandbox site](https://dlfaigmwgdev.herokuapp.com/) using [Heroku's GitHub integration feature](https://blog.heroku.com/heroku_github_integration). After changes have been merged to the master branch, it is recommended that you check the Heroku site to make sure the changes are reflected there. If you notice any problems, please create a new issue.
 
 ### About GitHub
 
@@ -68,26 +78,16 @@ In a terminal:
 4. Continue with step 3 below
 
 #### Subsequent work
-1. Make sure you're on the master branch (necessary if you skipped step 9)
-  * ```git checkout master```
-2. Make sure your master branch is up to date
-  * ```git pull origin master```
-3. Start up jekyll
-  * ```bundle exec jekyll serve```
-  * check [http://localhost:4000](http://localhost:4000)
-4. create a new branch for your changes
-  * ```git checkout -b issue#3```
+1. Make sure you're on the master branch (necessary if you skipped step 9): ```git checkout master```
+2. Make sure your master branch is up to date: ```git pull origin master```
+3. Start up jekyll: ```bundle exec jekyll serve``` then check [http://localhost:4000](http://localhost:4000)
+4. create a new branch for your changes: ```git checkout -b issue#3```
 5. make changes, check [http://localhost:4000](http://localhost:4000) to see your changes
-6. add your changed files
-  * ```git add {changed-files}``` or ```git add .``` to add all untracked files
-7. commit your changes with a message
-  * ```git commit -m "fixes issue #3"```
-8. add your branch to the repo
-  * ```git push --set-upstream origin issue#3```
-9. switch back to the master branch
-  * ```git checkout master```
-
+6. add your changed files: ```git add {changed-files}``` or ```git add .``` to add all untracked files
+7. commit your changes with a message: ```git commit -m "fixes issue #3"```
+8. add your branch to the repo: ```git push --set-upstream origin issue#3```
+9. switch back to the master branch: ```git checkout master```
 10. go to https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io/pulls
 11. make a new pull request with base:master and compare:issue-3
-12. wait for someone to test your changes and merge
+12. wait for someone to test your changes and merge (please do not merge your own PRs)
 13. start over with step 1 for your next change

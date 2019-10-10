@@ -1,28 +1,20 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        {% include head.html %}
-    </head>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-    <body>
-        <div class="container">
-            <div class="overview">
-                <span class="toggle">close</span>
-                {% include header.html %}
-                {% include nav.html %}
-            </div>
+  {%- include head.html -%}
 
-            <div class="content">
-                <span class="toggle" id="menu">menu</span>
-                <div class="page-content">
-                    {{ content }}
-                </div>
-            </div>
-        </div>
+  <body>
 
-        <script src="/js/jquery-2.1.1.min.js"></script>
-        <script src="/js/jquery.scrollTo.js"></script>
-        <script src="/js/jquery.nav.js"></script>
-        <script src="/js/scripts.js"></script>
-    </body>
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+
+
+  </body>
+
 </html>

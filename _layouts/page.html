@@ -1,29 +1,14 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        {% include head.html %}
-    </head>
+---
+layout: default
+---
+<article class="post">
 
-    <body>
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
 
-        <div class="container">
-            <div class="overview">
-                <span class="toggle">close</span>
-                {% include header.html %}
-                {% include nav.html %}
-            </div>
+  <div class="post-content">
+    {{ content }}
+  </div>
 
-            <div class="content">
-                <span class="toggle" id="menu">menu</span>
-                <div class="page-content">
-                    <section class="page.sectionclass">{{ content }}</section>
-                </div>
-            </div>
-        </div>
-
-        <script src="/js/jquery-2.1.1.min.js"></script>
-        <script src="/js/jquery.scrollTo.js"></script>
-        <script src="/js/jquery.nav.js"></script>
-        <script src="/js/scripts.js"></script>
-    </body>
-</html>
+</article>

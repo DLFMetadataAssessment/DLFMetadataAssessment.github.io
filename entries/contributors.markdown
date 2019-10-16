@@ -10,10 +10,10 @@ permalink: Contributors
 This list of contributors was created based on the lists of people who attended either the regular Metadata Working Group meeting or any of the subgroup meetings.
 
 * Shaun Akhtar
-* Linda Ballinger (leader, Inclusive Metadata Task Force)
-* Jeremy Bartczak (leader, Environmental Scan subgroup)
+* Linda Ballinger (leader, Cultural Assessment Interest Working Group, Inclusive Metadata Task Force)
+* Jeremy Bartczak (co-leader, Tools subgroup)
 * Liz Bodian
-* Michael Bolam 
+* Michael Bolam
 * Michael Campos-Quinn
 * Scott Carlson
 * Madison Chartier
@@ -29,7 +29,7 @@ This list of contributors was created based on the lists of people who attended 
 * Steven Gentry
 * Katrina Gertz
 * Kathryn Gronsbell
-* Gretchen Gueguen
+* Gretchen Gueguen (leader, Environmental Scan subgroup)
 * Meredith Hale
 * Julie Hardesty
 * Teresa Hebron
@@ -39,7 +39,7 @@ This list of contributors was created based on the lists of people who attended 
 * Sarah Lindsey
 * Xiaoli Ma
 * Mandy Mastrovita
-* Amelia Mowry (leader, Tools subgroup)
+* Amelia Mowry (co-leader, Tools subgroup)
 * Anna Neatrour (co-facilitator)
 * Wen Nie Ng
 * Allison Nolan
@@ -59,6 +59,7 @@ This list of contributors was created based on the lists of people who attended 
 * Rachel White
 * Manda Wise Pizzollo
 * Rachel Wittmann (leader, Benchmarks subgroup)
+
 
 ### 2018
 

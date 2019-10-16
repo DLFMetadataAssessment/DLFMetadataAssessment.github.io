@@ -11,9 +11,9 @@ This list of contributors was created based on the lists of people who attended 
 
 * Shaun Akhtar
 * Linda Ballinger (leader, Inclusive Metadata Task Force)
-* Jeremy Bartczak
+* Jeremy Bartczak (leader, Environmental Scan subgroup)
 * Liz Bodian
-* Michael Bolam (leader, Environmental Scan subgroup)
+* Michael Bolam 
 * Michael Campos-Quinn
 * Scott Carlson
 * Madison Chartier

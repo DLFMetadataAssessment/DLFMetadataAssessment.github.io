@@ -25,7 +25,8 @@ As a part of the Digital Library Federation Forum Assessment Interest Group Meta
 
 This survey was open to anyone self-identifying as a metadata professional who is currently employed in a library, archive, museum or other cultural heritage institution. Specifically, eligible participants for this study were individuals with some responsibility for metadata management and/or creation for a digital repository.
 
-<a href="../assets/Survey%20of%20Metadata%20Quality%20Benchmarks.pdf">A PDF copy of the survey is available.</a>
+<ul><li><a href="/assets/Survey_of_Metadata_Quality_Benchmarks.pdf" target="_blank">A PDF copy of the survey is available.</a></li>
+<li><a href="/assets/DLFMetadataQualityBenchmarksSurveyTextResponse.xslx" target="_blank">Response data is available</a></li></ul>
 
 <h2 id="definitions">Definitions</h2>
 

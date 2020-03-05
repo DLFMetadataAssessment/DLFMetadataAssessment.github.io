@@ -27,7 +27,7 @@ This survey was open to anyone self-identifying as a metadata professional who i
 
 
 <ul><li><a href="/assets/Survey_of_Metadata_Quality_Benchmarks.pdf" target="_blank">A PDF copy of the survey is available.</a></li>
-<li><a href="/assets/DLFMetadataQualityBenchmarksSurveyTextResponse.xslx" target="_blank">Response data is available</a></li></ul>
+<li><a href="/assets/DLFMetadataQualityBenchmarksSurveyTextResponse.xlsx" target="_blank">Response data is available</a></li></ul>
 
 
 <h2 id="definitions">Definitions</h2>

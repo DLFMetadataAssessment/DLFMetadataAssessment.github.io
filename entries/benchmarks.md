@@ -39,11 +39,11 @@ The white paper, ***Survey of Benchmarks in Metadata Quality: Initial Findings**
 
 Please contact the Metadata Quality Benchmarks co-facilitators of this study with any questions.  
 
-Rachel Wittmann, Digital Curation Librarian
-Marriott Library, University of Utah
-rachel.wittmann@utah.edu
+Rachel Wittmann, Digital Curation Librarian <br/>
+Marriott Library, University of Utah<br/>
+rachel.wittmann@utah.edu<br/>
 
 
-Andrea Payant, Metadata Librarian
-Merrill-Cazier Library, Utah State University
-andrea.payant@usu.edu
+Andrea Payant, Metadata Librarian<br/>
+Merrill-Cazier Library, Utah State University<br/>
+andrea.payant@usu.edu<br/>

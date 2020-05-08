@@ -32,7 +32,7 @@ This survey was open to anyone self-identifying as a metadata professional who i
 
 The white paper, ***Survey of Benchmarks in Metadata Quality: Initial Findings*** was released to the public in May, 2020. The following report details the response data gathered from the Survey of Benchmarks in Metadata Quality, which was deployed under the Digital Library Federation’s Assessment Interest Group, Metadata Working Group. The published survey questions and anonymized response data are included along with an overview of results and synthesis of the group’s analysis.
 
-* [A PDF copy of the white paper, Survey of Benchmarks in Metadata Quality: Initial Findings, is available](http://dlfmetadataassessment.githup.io/assets/WhitePaper_SurveyofBenchmarksinMetadataQuality.pdf)
+* [A PDF copy of the white paper, Survey of Benchmarks in Metadata Quality: Initial Findings, is available](http://dlfmetadataassessment.github.io/assets/WhitePaper_SurveyofBenchmarksinMetadataQuality.pdf)
 
 
 <h2 id="contact">Contact</h2>

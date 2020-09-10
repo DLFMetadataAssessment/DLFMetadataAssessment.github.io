@@ -77,7 +77,7 @@ This joint committee has recently drafted ["Principles for Evaluating Metadata S
 
 <h2 id="presentations">Presentations</h2>
 
-Presentations reviewed during the 2016 environmental scan are organized below in chronological order. If you have a presentation or description to add, please see the <a href="#take-part">Take Part</a> section - and thank you!
+Presentations reviewed during the 2016 environmental scan are organized below in chronological order. If you have a presentation or description to add, please see the <a href="http://dlfmetadataassessment.github.io/Take-Part">Take Part</a> section - and thank you!
 
 <h3>2003</h3>
 

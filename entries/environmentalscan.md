@@ -215,10 +215,10 @@ A full citations list can be found in the [Metadata Assessment Zotero Group](htt
 <h3>Summary</h3>
 
 In 2016, DLF Metadata Assessment Working Group surveyed and analyzed:
-- - -- general data tools,
-- - -- cultural heritage institution metadata-specific tools,
-- - -- programming languages/libraries that support metadata-specific activities, and
-- - -- datasets and dataset aggregators.
+* general data tools,
+* cultural heritage institution metadata-specific tools,
+* programming languages/libraries that support metadata-specific activities, and
+* datasets and dataset aggregators.
 
 This environmental scan captured information about the use, status, and application of 20 tools. In 2017, the initial list of tools gathered as part of the environmental scan was reviewed with an eye to developing resources for tool testing.
 
@@ -255,25 +255,25 @@ The documentation presents general information about each tool, such as its purp
 
 <h3>List of Tools &amp; Sample Datasets to be Assessed</h3>
 
-- - -- Anaconda distribution of Python
-- - -- Apache Spark
-- - -- Completeness Rating in Europeana
-- - -- D3
-- - -- Digital Public Library of America: Bulk Metadata Download Feb 2015
-- - -- Google Analytics
-- - -- Hadoop
-- - -- Internet Archive Dataset Collection
-- - -- LODrefine
-- - -- Mark Phillips' Metadata Breakers
-- - -- North Carolina Digital Heritage Center DPLA Aggregation tools
-- - -- OpenRefine
-- - -- Plot.ly
-- - -- Python pandas
-- - -- R
-- - -- R Studio
-- - -- SPSS
-- - -- Tableau
-- - -- UNT Libraries Metadata Edit Dataset
+* Anaconda distribution of Python
+* Apache Spark
+* Completeness Rating in Europeana
+* D3
+* Digital Public Library of America: Bulk Metadata Download Feb 2015
+* Google Analytics
+* Hadoop
+* Internet Archive Dataset Collection
+* LODrefine
+* Mark Phillips' Metadata Breakers
+* North Carolina Digital Heritage Center DPLA Aggregation tools
+* OpenRefine
+* Plot.ly
+* Python pandas
+* R
+* R Studio
+* SPSS
+* Tableau
+* UNT Libraries Metadata Edit Dataset
 
 <h3>Tools Overview Visualization</h3>
 
@@ -433,65 +433,65 @@ Zavalina, O. L., Kizhakkethil, P., Alemneh, D. G., Phillips, M. E., & Tarver, H.
 
 <h2 id="contributors">2016 Contributors</h2>
 
-- - -- Janet Ahrberg
-- - -- Shaun Akhtar
-- - -- Filipe Bento
-- - -- Molly Bragg
-- - -- Anne Caldwell
-- - -- Joyce Chapman
-- - -- Tracy Chui
-- - -- Kevin Clair
-- - -- Robin Desmeules
-- - -- Maggie Dickson
-- - -- Laura Drake Davis
-- - -- Jennifer Eustis
-- - -- Arcadia Falcone
-- - -- Sharon Farnel
-- - -- Ethan Fenichel
-- - -- Kate Flynn
-- - -- Patrick Galligan
-- - -- Jennifer Gilbert
-- - -- Ivey Glendon
-- - -- Anna Goslen
-- - -- Peggy Griesinger
-- - -- Kathryn Gronsbell
-- - -- Wendy Hagenmaier
-- - -- Christina Harlow
-- - -- Violeta Ilik
-- - -- Dana Jemison
-- - -- Lukas Koster
-- - -- Liz Kupke
-- - -- Andrea Leonard
-- - -- Karen Majewicz
-- - -- Bill McMillin
-- - -- Timothy Ryan Mendenhall
-- - -- Amelia Mowry
-- - -- Jeremy Myntti
-- - -- Anna Neatrour
-- - -- Kayla Ondracek
-- - -- Bria Parker
-- - -- Sam Popowich
-- - -- Sarah Potvin
-- - -- Erik Radio
-- - -- Hilary Robbeloth
-- - -- Wendy Robertson
-- - -- Domenic Rosati
-- - -- Jason Roy
-- - -- Sara Rubinow
-- - -- Melissa Rucker
-- - -- Sibyl Schaefer
-- - -- Matt Schultz
-- - -- Sarah Beth Seymore
-- - -- Debra Shapiro
-- - -- Amber Sherman
-- - -- Laura Smart
-- - -- Ayla Stein
-- - -- Kathryn Stine
-- - -- Hannah Tarver
-- - -- Rachel Trent
-- - -- Friday Valentinev
-- - -- Liz Woolcott
-- - -- Jennifer Young
-- - -- Angelina Zaytsev
+* Janet Ahrberg
+* Shaun Akhtar
+* Filipe Bento
+* Molly Bragg
+* Anne Caldwell
+* Joyce Chapman
+* Tracy Chui
+* Kevin Clair
+* Robin Desmeules
+* Maggie Dickson
+* Laura Drake Davis
+* Jennifer Eustis
+* Arcadia Falcone
+* Sharon Farnel
+* Ethan Fenichel
+* Kate Flynn
+* Patrick Galligan
+* Jennifer Gilbert
+* Ivey Glendon
+* Anna Goslen
+* Peggy Griesinger
+* Kathryn Gronsbell
+* Wendy Hagenmaier
+* Christina Harlow
+* Violeta Ilik
+* Dana Jemison
+* Lukas Koster
+* Liz Kupke
+* Andrea Leonard
+* Karen Majewicz
+* Bill McMillin
+* Timothy Ryan Mendenhall
+* Amelia Mowry
+* Jeremy Myntti
+* Anna Neatrour
+* Kayla Ondracek
+* Bria Parker
+* Sam Popowich
+* Sarah Potvin
+* Erik Radio
+* Hilary Robbeloth
+* Wendy Robertson
+* Domenic Rosati
+* Jason Roy
+* Sara Rubinow
+* Melissa Rucker
+* Sibyl Schaefer
+* Matt Schultz
+* Sarah Beth Seymore
+* Debra Shapiro
+* Amber Sherman
+* Laura Smart
+* Ayla Stein
+* Kathryn Stine
+* Hannah Tarver
+* Rachel Trent
+* Friday Valentinev
+* Liz Woolcott
+* Jennifer Young
+* Angelina Zaytsev
 
 <a href="#top">Return to top</a>

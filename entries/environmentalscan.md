@@ -9,6 +9,8 @@ permalink: EnvironmentalScan
 
 <h1 id="top">DLF AIG MWG Metadata Assessment Toolkit - Environmental Scan</h1>
 
+<p><em>Disclaimer:</em> This page was last updated on September 29, 2020. Please be aware that the links that are contained in this page may no longer work or may redirect to an unexpected site.</p>
+
 <p>This was the first area of work for the DLF Metadata Assessment group in 2016. We performed a review of literature, tools, presentations, and organizations on the topics of metadata assessment and metadata quality with a focus on—but not limited to—digital repositories descriptive metadata.</p>
 
 <p><a href="../assets/DLFMetadataAssessmentWorkingGroup2016.pdf">Download a version of this resource as a PDF</a> (static snapshot from fall 2016)</p>

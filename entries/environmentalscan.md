@@ -9,7 +9,7 @@ permalink: EnvironmentalScan
 
 <h1 id="top">DLF AIG MWG Metadata Assessment Toolkit - Environmental Scan</h1>
 
-<p><em>Disclaimer:</em> This page was last updated on September 29, 2020. Please be aware that the links that are contained in this page may no longer work or may redirect to an unexpected site.</p>
+<p>This page was last updated on October 13, 2020. Please be aware that the links that are contained in this page may no longer work or may redirect to an unexpected site.</p>
 
 <p>This was the first area of work for the DLF Metadata Assessment group in 2016. We performed a review of literature, tools, presentations, and organizations on the topics of metadata assessment and metadata quality with a focus on—but not limited to—digital repositories descriptive metadata.</p>
 
@@ -35,7 +35,7 @@ As of 2016, a wide range of groups are addressing issues related to metadata and
 
 <h3>Europeana</h3>
 
-[Europeana](http://pro.europeana.eu/) is actively working to develop quality standards for metadata. The [Data Quality Committee](http://pro.europeana.eu/page/data-quality-committee) is addressing many issues related to metadata, including required elements for ingest of EDM data and meaningful metadata values in the context of use. “This work includes measures for information value of statements (informativeness, degree of multilinguality...) “ (p. 3). Of particular note is the committee’s statement on data quality: “The Committee considers that data quality is always relative to intended use and cannot be analysed or defined in isolation from it, as a theoretical effort” (p. 1).
+[Europeana](http://pro.europeana.eu/) is actively working to develop quality standards for metadata. The [Data Quality Committee](https://web.archive.org/web/20160901075956/https://pro.europeana.eu/page/data-quality-committee) is addressing many issues related to metadata, including required elements for ingest of EDM data and meaningful metadata values in the context of use. “This work includes measures for information value of statements (informativeness, degree of multilinguality...) “ (p. 3). Of particular note is the committee’s statement on data quality: “The Committee considers that data quality is always relative to intended use and cannot be analysed or defined in isolation from it, as a theoretical effort” (p. 1).
 
 [Europeana’s Report and Recommendations from the Task Force on Metadata Quality](http://pro.europeana.eu/files/Europeana_Professional/Publications/Metadata%20Quality%20Report.pdf) is an essential read, outlining broad issues related to metadata quality as well as specific recommendations for the Europeana community. This report defines good metadata quality as “1. Resulting from a series of trusted processes 2. Findable 3. Readable 4. Standardised 5. Meaningful to audiences 6. Clear on re-use 7. Visible” (p. 3). In addition, the report explores hindrances to good metadata quality: lack of foresight for online discovery, treating metadata as an afterthought, lack of funding and resources, describing digitized items with little information, and not understanding the harvesting requirements.
 
@@ -43,7 +43,7 @@ The [Task Force on Enrichment and Evaluation’s Final Report](http://pro.europe
 
 <h3>Hydra Groups</h3>
 
-_Update: In 2017 the Hydra Project's name was changed to [Samvera](https://wiki.duraspace.org/display/samvera/Samvera)._ The [Hydra Metadata Interest Group](https://wiki.duraspace.org/display/hydra/Hydra+Metadata+Interest+Group) has multiple subgroups that have developed best practices for [technical metadata](https://wiki.duraspace.org/display/hydra/Technical+Metadata+Application+Profile), [rights metadata](https://wiki.duraspace.org/display/hydra/Rights+Metadata+Recommendation), [Segment of a File structural metadata](https://wiki.duraspace.org/display/hydra/Rights+Metadata+Recommendation), and [Applied Linked Data](https://wiki.duraspace.org/display/hydra/Applied+Linked+Data+Working+Group). The best practices and metadata application profiles developed by these groups can help in the assessment of metadata quality, but the work of these groups has not yet explicitly included metadata assessment.  The [Hydra Metrics Interest Group](https://wiki.duraspace.org/display/hydra/Hydra+Metrics+Interest+Group) is involved in the use of scholarly and web metrics to assess the performance of various aspects of Hydra instances.
+_Update: In 2017 the Hydra Project's name was changed to [Samvera](https://wiki.duraspace.org/display/samvera/Samvera)._ The [Hydra Metadata Interest Group](https://wiki.lyrasis.org/display/samvera/Samvera+Metadata+Interest+Group) has multiple subgroups that have developed best practices for [technical metadata](https://wiki.lyrasis.org/display/samvera/Technical+Metadata+Application+Profile), [rights metadata](https://wiki.lyrasis.org/display/samvera/Rights+Metadata+Recommendation), [Segment of a File structural metadata](https://wiki.lyrasis.org/display/samvera/Segment+of+a+File+Structural+Metadata+Working+Group), and [Applied Linked Data](https://wiki.lyrasis.org/display/samvera/Samvera+Applied+Linked+Data+Interest+Group). The best practices and metadata application profiles developed by these groups can help in the assessment of metadata quality, but the work of these groups has not yet explicitly included metadata assessment.  The [Hydra Metrics Interest Group](https://wiki.lyrasis.org/display/samvera/Samvera+Metrics+Interest+Group) is involved in the use of scholarly and web metrics to assess the performance of various aspects of Hydra instances.
 
 <h3>SAA</h3>
 
@@ -52,7 +52,7 @@ Although very little directly related to metadata assessment is available from t
 <h3>ALA ALCTS "Big Heads"</h3>
 *(i.e. "ALA ALCTS Technical Services Directors of Large Research Libraries IG (Big Heads)")*
 
-The [Final Report of the Task Force on Cost/Value Assessment of Bibliographic Control](http://connect.ala.org/files/7981/costvaluetaskforcereport2010_06_18_pdf_77542.pdf) defines the value of metadata as:
+The [Final Report of the Task Force on Cost/Value Assessment of Bibliographic Control](https://web.archive.org/web/20160804063754/http://connect.ala.org/files/7981/costvaluetaskforcereport2010_06_18_pdf_77542.pdf) defines the value of metadata as:
 
 1. Discovery success
 2. Use
@@ -73,7 +73,7 @@ The 2015 presentation [“Understanding User Discovery of ETD: Metadata or Full-
 
 <h3>ALCTS/LITA Metadata Standards</h3>
 
-This joint committee has recently drafted ["Principles for Evaluating Metadata Standards"](http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/), which provides seven principles intended to apply to the "development, maintenance, governance, selection, use, and assessment of metadata standards" by LAM organizations. The principles recommend metadata standards that meet real-world needs, are open, flexible, and actively maintained, and that support network connections and interoperability. A recent committee blog post [summarizes and responds to public comments](http://metaware.buzz/2016/04/18/summary-of-comments-received-on-msc-principles-for-evaluating-metadata-standards/) made on the initial draft, with a subsequent draft expected later this spring.
+This joint committee has recently drafted ["Principles for Evaluating Metadata Standards"](https://web.archive.org/web/20160303095702/http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/), which provides seven principles intended to apply to the "development, maintenance, governance, selection, use, and assessment of metadata standards" by LAM organizations. The principles recommend metadata standards that meet real-world needs, are open, flexible, and actively maintained, and that support network connections and interoperability. A recent committee blog post [summarizes and responds to public comments](https://web.archive.org/web/20160918105442/http://metaware.buzz/2016/04/18/summary-of-comments-received-on-msc-principles-for-evaluating-metadata-standards/) made on the initial draft, with a subsequent draft expected later this spring. The [final draft of the "Principles for Evaluating Metadata Standards,"](https://web.archive.org/web/20180915041307/http://metaware.buzz/2016/08/04/principles-for-evaluating-metadata-standards/) which was not evaluated as part of the 2016 Environmental Scan, was added to this page in 2020.
 
 <a href="#top">Return to top</a>
 
@@ -147,7 +147,7 @@ Presentations reviewed during the 2016 environmental scan are organized below in
 
 <h4>Code4Lib</h4>
 
-<p><em>Measuring Your Metadata Preconference at Code4Lib 2016</em><br/>Averkamp, Shawn; Miller, Matt; Rubinow, Sara; &amp; Hadro, Josh.<br/><a href="http://2016.code4lib.org/workshops/#Measuring-Your-Metadata">Information on workshop</a></p>
+<p><em>Measuring Your Metadata Preconference at Code4Lib 2016</em><br/>Averkamp, Shawn; Miller, Matt; Rubinow, Sara; &amp; Hadro, Josh.<br/><a href="https://web.archive.org/web/20160423172155/https://2016.code4lib.org/workshops/Measuring-Your-Metadata">Information on workshop</a></p>
 
 <p>This was a hands-on workshop that explored visualization and analysis of metadata using Python and d3. The workshop notes point to <a href="https://docs.google.com/document/d/1MGwRcnYZMIpJhuFGgqnJPN06HCvsOwJPnmE-i1NC1Qg/edit">other helpful resources.</a> An outline of the workshop can be found <a href="https://github.com/saverkamp/measure-metadata-workshop">here.</a></p>
 
@@ -196,7 +196,7 @@ We have identified a subselection of these articles, listed below, which we reco
 * Amrapali, Zaveri, et al. (2016). “Quality assessment for Linked Data: A Survey.” Semantic Web, 7(1), 63-93.
 * Bruce, Thomas R. & Hillmann, Diane I. (2004). The Continuum of Metadata Quality
 * Bruce, Thomas R. & Hillmann, Diane I. (2013). Metadata Quality in a Linked Data Context (blog post).
-* DAMA UK Working Group on Data Quality Dimensions. (2013). The Six Primary Dimensions for Data Quality Assessment. DAMA UK. URL:  [https://www.whitepapers.em360tech.com/wp-content/files_mf/1407250286DAMAUKDQDimensionsWhitePaperR37.pdf](https://www.whitepapers.em360tech.com/wp-content/files_mf/1407250286DAMAUKDQDimensionsWhitePaperR37.pdf)
+* DAMA UK Working Group on Data Quality Dimensions. (2013). The Six Primary Dimensions for Data Quality Assessment. DAMA UK. URL:  [https://web.archive.org/web/20190725222019/https://www.whitepapers.em360tech.com/wp-content/files_mf/1407250286DAMAUKDQDimensionsWhitePaperR37.pdf](https://web.archive.org/web/20190725222019/https://www.whitepapers.em360tech.com/wp-content/files_mf/1407250286DAMAUKDQDimensionsWhitePaperR37.pdf)
 * Europeana Task Force on Metadata Quality. (2013). Report and Recommendations from the Task Force on Metadata Quality. URL: [https://pro.europeana.eu/files/Europeana_Professional/Europeana_Network/metadata-quality-report.pdf](https://pro.europeana.eu/files/Europeana_Professional/Europeana_Network/metadata-quality-report.pdf)
 * Gavrilis, Dimitris, et al. (2015). “Measuring Quality in Metadata Repositories.” In S. Kapidakis, C. Mazurek, & M. Werla (Eds.), Research and Advanced Technology for Digital Libraries: 19th International Conference on Theory and Practice of Digital Libraries, TPDL 2015, Poznań, Poland, September 14-18, 2015, Proceedings.
 * Gueguen, Gretchen. (2019). “Metadata Quality at Scale: Metadata quality control at the Digital Public Library of America” Journal of Digital Media Management. 7(2), 115-126.
@@ -293,17 +293,17 @@ The tools we reviewed also reflect the variety of work associated with metadata 
 
 This is a list of citations for the resources, tools, publications, presentations, and other resourced mentioned in the 2016 environmental scan. We continue to actively collect citations of interest in [the Metadata Assessment Zotero Group](https://www.zotero.org/groups/metadata_assessment) and welcome any additions or updates you would like to offer to that list.
 
-ALCTS/LITA Metadata Standards Committee. Principles for Evaluating Metadata Standards (draft). 2015-10-27. [http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/](http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/)
+ALCTS/LITA Metadata Standards Committee. Principles for Evaluating Metadata Standards (draft). 2015-10-27. [https://web.archive.org/web/20160303095702/http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/](https://web.archive.org/web/20160303095702/http://metaware.buzz/2015/10/27/draft-principles-for-evaluating-metadata-standards/)
 <br><br>
-ALCTS/LITA Metadata Standards Committee. Summary of Comments Received on MSC Principles for Evaluating Metadata Standards (blog post). 2016-04-18. [http://metaware.buzz/2016/04/18/summary-of-comments-received-on-msc-principles-for-evaluating-metadata-standards/](http://metaware.buzz/2016/04/18/summary-of-comments-received-on-msc-principles-for-evaluating-metadata-standards/)
+ALCTS/LITA Metadata Standards Committee. Summary of Comments Received on MSC Principles for Evaluating Metadata Standards (blog post). 2016-04-18. [https://web.archive.org/web/20160918105442/http://metaware.buzz/2016/04/18/summary-of-comments-received-on-msc-principles-for-evaluating-metadata-standards/](https://web.archive.org/web/20160918105442/http://metaware.buzz/2016/04/18/summary-of-comments-received-on-msc-principles-for-evaluating-metadata-standards/)
 <br><br>
 Alemneh, Daniel Gelaw. Understanding User Discovery of ETD: Metadata or Full-Text, How Did They Get There? 2015-09-30. [http://digital.library.unt.edu/ark:/67531/metadc725793/](http://digital.library.unt.edu/ark:/67531/metadc725793/)
 <br><br>
-Anaconda, [https://www.python.org/](https://www.python.org/)
+Anaconda, [https://www.anaconda.com/](https://www.anaconda.com/)
 <br><br>
 Apache Spark, [http://spark.apache.org/](http://spark.apache.org/)
 <br><br>
-Averkamp, Shawn; Miller, Matt; Rubinow, Sara; Hadro, Josh. Measuring Your Metadata Preconference at Code4Lib 2016 (workshop information). [http://2016.code4lib.org/workshops/#Measuring-Your-Metadata](http://2016.code4lib.org/workshops/#Measuring-Your-Metadata)
+Averkamp, Shawn; Miller, Matt; Rubinow, Sara; Hadro, Josh. Measuring Your Metadata Preconference at Code4Lib 2016 (workshop information). [https://web.archive.org/web/20160423172155/https://2016.code4lib.org/workshops/Measuring-Your-Metadata](https://web.archive.org/web/20160423172155/https://2016.code4lib.org/workshops/Measuring-Your-Metadata)
 <br><br>
 Chapman, Joyce Celeste. “User Feedback and Cost/Value Analysis of Metadata Creation”. 2010-08-13. [http://www2.archivists.org/sites/all/files/saa_description_presentation_2010_chapman.pdf](http://www2.archivists.org/sites/all/files/saa_description_presentation_2010_chapman.pdf)
 <br><br>
@@ -321,15 +321,15 @@ DLF/NSDL Working Group on OAI PMH Best Practices. (2007). Best Practices for OAI
 <br><br>
 DPLA Aggregation tools, [https://github.com/ncdhc/dpla-aggregation-tools](https://github.com/ncdhc/dpla-aggregation-tools)
 <br><br>
-Dublin Core Metadata Initiative. (2014). DCMI Task Group RDF Application Profiles. [http://wiki.dublincore.org/index.php/RDF_Application_Profiles](http://wiki.dublincore.org/index.php/RDF_Application_Profiles)
+Dublin Core Metadata Initiative. (2014). DCMI Task Group RDF Application Profiles. [https://web.archive.org/web/20160416123658/http://wiki.dublincore.org/index.php/RDF_Application_Profiles](https://web.archive.org/web/20160416123658/http://wiki.dublincore.org/index.php/RDF_Application_Profiles)
 <br><br>
 Dushay, N., & Hillmann, D. I. (2003). Analyzing Metadata for Effective Use and Re-Use. Presented at the DCMI International Conference on Dublin Core and Metadata Applications, Seattle, Washington, USA. [http://dcpapers.dublincore.org/pubs/article/view/744](http://dcpapers.dublincore.org/pubs/article/view/744)
 <br><br>
 eCommons Metadata, [https://github.com/cmh2166/eCommonsMetadata](https://github.com/cmh2166/eCommonsMetadata)
 <br><br>
-Europeana Pro Data Quality Committee. [http://pro.europeana.eu/page/data-quality-committee](http://pro.europeana.eu/page/data-quality-committee)
+Europeana Pro Data Quality Committee. [https://web.archive.org/web/20160901075956/https://pro.europeana.eu/page/data-quality-committee](https://web.archive.org/web/20160901075956/https://pro.europeana.eu/page/data-quality-committee)
 <br><br>
-Europeana Pro. [pro.europeana.eu](pro.europeana.eu)
+Europeana Pro. [https://pro.europeana.eu/](https://pro.europeana.eu/)
 <br><br>
 Europeana. Report and Recommendations from the Task Force on Metadata Quality. 2015-05. [http://pro.europeana.eu/files/Europeana_Professional/Publications/Metadata%20Quality%20Report.pdf](http://pro.europeana.eu/files/Europeana_Professional/Publications/Metadata%20Quality%20Report.pdf)
 <br><br>
@@ -359,13 +359,13 @@ Harper, Corey. Statistical DPLA: Metadata Counting and Word Analysis (session no
 <br><br>
 Haslhofer, B., & Klas, W. (2010). A survey of techniques for achieving metadata interoperability. ACM Computing Surveys. [https://doi.org/10.1145/1667062.1667064](https://doi.org/10.1145/1667062.1667064)
 <br><br>
-Hydra Metadata Interest Group. [https://wiki.duraspace.org/display/hydra/Hydra+Metadata+Interest+Group](https://wiki.duraspace.org/display/hydra/Hydra+Metadata+Interest+Group)
+Hydra Metadata Interest Group. [https://wiki.lyrasis.org/display/samvera/Samvera+Metadata+Interest+Group](https://wiki.lyrasis.org/display/samvera/Samvera+Metadata+Interest+Group)
 <br><br>
-Hydra Metrics Interest Group. [https://wiki.duraspace.org/display/hydra/Hydra+Metrics+Interest+Group](https://wiki.duraspace.org/display/hydra/Hydra+Metrics+Interest+Group)
+Hydra Metrics Interest Group. [https://wiki.lyrasis.org/display/samvera/Samvera+Metrics+Interest+Group](https://wiki.lyrasis.org/display/samvera/Samvera+Metrics+Interest+Group)
 <br><br>
 Internet Archive Dataset Collection, [https://archive.org/details/datasets](https://archive.org/details/datasets)
 <br><br>
-Jackson, A., Han, M.-J., Groetsch, K., Mustafoff, M., & Cole, T. W. (2008). Dublin Core Metadata Harvested Through OAI-PMH. Journal of Library Metadata, 8(1), 5–21. [https://doi.org/10.1080/10911360802076682](https://doi.org/10.1080/10911360802076682)
+Jackson, A., Han, M.-J., Groetsch, K., Mustafoff, M., & Cole, T. W. (2008). Dublin Core Metadata Harvested Through OAI-PMH. Journal of Library Metadata, 8(1), 5–21. [https://www.tandfonline.com/doi/abs/10.1300/J517v08n01_02](https://www.tandfonline.com/doi/abs/10.1300/J517v08n01_02)
 <br><br>
 Király, P. (2015, September). A Metadata Quality Assurance Framework. Retrieved from [http://pkiraly.github.io/metadata-quality-project-plan.pdf](http://pkiraly.github.io/metadata-quality-project-plan.pdf)
 <br><br>
@@ -383,7 +383,7 @@ Margaritopoulos, T., Margaritopoulos, M., Mavridis, I., & Manitsaris, A. (2008).
 <br><br>
 Metadata Breakers, [https://github.com/vphill/metadata_breakers](https://github.com/vphill/metadata_breakers)
 <br><br>
-Najjar, J., & Duval, E. (2006). Actual Use of Learning Objects and Metadata: An Empirical Analysis. TCDL Bulletin, 2(2). Retrieved from [http://www.ieee-tcdl.org/Bulletin/v2n2/najjar/najjar.html](http://www.ieee-tcdl.org/Bulletin/v2n2/najjar/najjar.html)
+Najjar, J., & Duval, E. (2006). Actual Use of Learning Objects and Metadata: An Empirical Analysis. TCDL Bulletin, 2(2). Retrieved from [https://web.archive.org/web/20170615121655/http://www.ieee-tcdl.org/Bulletin/v2n2/najjar/najjar.html](https://web.archive.org/web/20170615121655/http://www.ieee-tcdl.org/Bulletin/v2n2/najjar/najjar.html)
 <br><br>
 Neatrour, Anna and Myntti, Jeremy. Automating Controlled Vocabulary Reconciliation. (slides presented at DLF Forum 2015) 2015-10-26. [http://www.slideshare.net/aneatrour/automating-controlled-vocabulary-reconciliation](http://www.slideshare.net/aneatrour/automating-controlled-vocabulary-reconciliation)
 <br><br>
@@ -397,7 +397,7 @@ OpenRefine, [http://openrefine.org](http://openrefine.org)
 <br><br>
 Park, E. G. (2007). Building interoperable Canadian architecture collections: initial metadata assessment. The Electronic Library, 25(2), 18. [https://doi.org/http://dx.doi.org/10.1108/02640470710741331](https://doi.org/http://dx.doi.org/10.1108/02640470710741331)
 <br><br>
-Pirmann, C. (2009, Spring). Alternative Subject Languages for Cataloging. Retrieved March 24, 2016, from [http://courseweb.lis.illinois.edu/~pirmann2/LIS577/toolbox/langhead.html](http://courseweb.lis.illinois.edu/~pirmann2/LIS577/toolbox/langhead.html)
+Pirmann, C. (2009, Spring). Alternative Subject Languages for Cataloging. Retrieved March 24, 2016. **Link no longer available as of October 13, 2020.**
 <br><br>
 Plot.ly, [https://plot.ly](https://plot.ly/)
 <br><br>
@@ -409,7 +409,7 @@ R, [https://www.r-project.org](https://www.r-project.org)
 <br><br>
 Sicilia, M. A., Garcia, E., Pages, C., Martinez, J. J., & Gutierrez, J. M. (2005). Complete metadata records in learning object repositories: some evidence and requirements. ACM Digital Library, 1(4), 14. [https://doi.org/10.1504/IJLT.2005.007152](https://doi.org/10.1504/IJLT.2005.007152)
 <br><br>
-Simon, A., Vila Suero, D., Hyvönen, E., Guggenheim, E., Svensson, L. G., Freire, N., … Alexiev, V. (2014). EuropeanaTech Task Force on a Multilingual and Semantic Enrichment Strategy: final report (Task Force Report) (p. 44). Europeana. Retrieved from [http://pro.europeana.eu/get-involved/europeana-tech/europeanatech-task-forces/multilingual-and-semantic-enrichment-strategy](http://pro.europeana.eu/get-involved/europeana-tech/europeanatech-task-forces/multilingual-and-semantic-enrichment-strategy)
+Simon, A., Vila Suero, D., Hyvönen, E., Guggenheim, E., Svensson, L. G., Freire, N., … Alexiev, V. (2014). EuropeanaTech Task Force on a Multilingual and Semantic Enrichment Strategy: final report (Task Force Report) (p. 44). Europeana. Retrieved from [https://web.archive.org/web/20170324215427/http://pro.europeana.eu/get-involved/europeana-tech/europeanatech-task-forces/multilingual-and-semantic-enrichment-strategy](https://web.archive.org/web/20170324215427/http://pro.europeana.eu/get-involved/europeana-tech/europeanatech-task-forces/multilingual-and-semantic-enrichment-strategy)
 <br><br>
 SPSS, [http://www-01.ibm.com/software/analytics/spss](http://www-01.ibm.com/software/analytics/spss)
 <br><br>
@@ -419,7 +419,7 @@ Tani, A., Candela, L., & Castelli, D. (2013). Dealing with metadata quality: The
 <br><br>
 Tarver, H., Phillips, M., Zavalina, O., & Kizhakkethil, P. (2015). An Exploratory Analysis of Subject Metadata in the Digital Public Library of America. In Proceedings from the International Conference on Dublin Core and Metadata Applications 2015. Sao Paolo, Brazil.
 <br><br>
-Task Force on Cost/Value Assessment of Bibliographic Control. Final Report. 2010-06-18. [http://connect.ala.org/files/7981/costvaluetaskforcereport2010_06_18_pdf_77542.pdf](http://connect.ala.org/files/7981/costvaluetaskforcereport2010_06_18_pdf_77542.pdf)
+Task Force on Cost/Value Assessment of Bibliographic Control. Final Report. 2010-06-18. [https://web.archive.org/web/20160804063754/http://connect.ala.org/files/7981/costvaluetaskforcereport2010_06_18_pdf_77542.pdf](https://web.archive.org/web/20160804063754/http://connect.ala.org/files/7981/costvaluetaskforcereport2010_06_18_pdf_77542.pdf)
 <br><br>
 UNT Libraries Metadata Edit Dataset, [http://digital.library.unt.edu/ark:/67531/metadc304852](http://digital.library.unt.edu/ark:/67531/metadc304852)
 <br><br>

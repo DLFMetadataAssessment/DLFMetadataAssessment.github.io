@@ -1,93 +1,15 @@
-# DLF-AIG Metadata Assessment Working Group
+# The DLF AIG Metadata Working Group
 
-**This is the Sandbox or Development site for the DLF AIG Metadata Working Group Website & Toolkit. The Sandbox deploys to https://dlfaigmwgdev.herokuapp.com/ for viewing.**
+The  Digital Library Federation (DLF) Assessment Interest Group (AIG) Metadata Working Group--also known as the Metadata Assessment Working Group (MAWG)--strives to collaboratively build guidelines, best practices, tools, and workflows around the evaluation and assessment of metadata used by and for digital libraries and repositories. We fulfill this mission by supporting discussions of metadata assessment and quality control, sharing metadata assessment approaches, and fostering a community of dedicated metadata assessment professionals.
 
-**See the Live/Production/Current site at http://dlfmetadataassessment.github.io/ and the Repository for the live site at https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io/**
+# Introduction and Set-Up
 
-**We decided to create a new repository for this Sandbox (instead of development locally for the site) due to the breaking nature of some of the requested changes in 2017 to our group's output.**
+This is the Github repository for the DLF AIG Metadata Working Group’s live/production website: http://dlfmetadataassessment.github.io/.
 
-## Intro
+If you would like to contribute to this website, you will need to install Git, Ruby (as well as relevant associated software such as Bundler), Jekyll, and a source code editor of your choosing, such as Notepad++ or Atom. You will also need to create a GitHub account if you do not already have one, as well as consider joining the [DLFMetadataAssessment](https://github.com/DLFMetadataAssessment) GitHub Organization. 
 
-This site was developed by the [Digital Library Federation Assessment Interest Group Metadata Assessment Working Group](https://groups.google.com/forum/#!forum/dlf-aig-metadata-assessment-working-group), a.k.a. the DLF Metadata Assessment Working Group.
+If you are interested in joining our GitHub Organization and contributing changes, please navigate to [our wiki](https://wiki.diglib.org/Assessment:Metadata) for additional information and to get involved!
 
-We want the [DLF Metadata Assessment Working Group site](http://dlfmetadataassessment.github.io/) and the information contained therein to be a living document. Working Group members will continue to add resources, recommendations, and information to this website as well as to our working documents. If you want to make a comment, suggestion, correction or update, you can:
+# DLF Code of Conduct
 
-  * [submit a pull request to this website](https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io/pulls),
-
-  * [open a GitHub issue on this repository](https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io/issues),
-
-  * [comment on our working docs in this Google Drive folder](https://drive.google.com/open?id=0B74oOQcTdnHjWk51a283bUVta0E),
-
-  * [send a message to our Google Group](https://groups.google.com/forum/#!forum/dlf-aig-metadata-assessment-working-group),
-
-  * [join one of our calls](https://wiki.diglib.org/Assessment:Metadata).
-
-Anyone and everyone is welcomed to take part in the DLF AIG Metadata Working Group. Use the link below to find out more about the group or get involved.
-
-  * [our DLF wiki page](https://wiki.diglib.org/Assessment:Metadata)
-
-## Contributing via this GitHub Repository
-
-This is a group effort and we welcome any and all contributions. This information below includes the basics to get you started with making change requests directly to this repository. If you get stuck, please contact a group member. We'd love to improve the documentation to make it easier for everyone to contribute.
-
-## Practices for Contributing to this Repository
-
-**Branch Names**
-
-Once an issue is raised in our GitHub repository, we create a branch with a name based on the issue number it is addressing, i.e. 'issue#1'. The pull request generated to fix Issue 1 is then the merging of that branch into the **master** branch, which feeds into the Github.io website.
-
-You can see and comment on a list of [outstanding issues](https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io/issues).
-
-The examples and walk through of GitHub and Jekyll below uses "issue#3" as a subject. That's the branch name used in the commit message.
-
-**Pull Requests**
-
-Once you have committed your changes to your branch for a particular issue, submit a pull request to have your changes reviewed. It will be merged by another member of the group. We request that nobody merges their own pull requests.
-
-If your pull request sits for a while, you can submit an email to the [Google Group](https://groups.google.com/forum/#!forum/dlf-aig-metadata-assessment-working-group) asking for it to be reviewed.
-
-**Deployment to Heroku**
-
-This repository has been set up to automatically deploy any new changes done to the master branch to our [Heroku sandbox site](https://dlfaigmwgdev.herokuapp.com/) using [Heroku's GitHub integration feature](https://blog.heroku.com/heroku_github_integration). After changes have been merged to the master branch, it is recommended that you check the Heroku site to make sure the changes are reflected there. If you notice any problems, please create a new issue.
-
-### About GitHub
-
-If you're new to GitHub, we recommend an [introduction to the GitHub flow](https://guides.github.com/introduction/flow/) and [simple steps for getting started in GitHub](https://guides.github.com/activities/hello-world/).
-
-### About Jekyll
-
-This site is built with Jekyll. [Jekyll](http://jekyllrb.com) is a Rails gem that generates static websites from markdown, HTML, and other formats. See the [official Jekyll documentation](http://jekyllrb.com/docs/home/) for details and instructions on how to install. There is also a comprehensive guide to installing Jekyll on a Windows machine available [here](http://jekyll-windows.juthilo.com/).
-
-### Here's how to make a Git Pull Request for this Jekyll site:
-
-#### The first time you want to contribute
-
-You'll need:
-
-1. Git
-2. Ruby version between 2.0 and 2.2
-3. Rubygems
-4. Bundler
-5. Jekyll
-
-In a terminal:
-
-1. clone the repo with ```git clone https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io.git```
-2. change to the repository's root directory with ```cd DLFMetadataAssessment.github.io```  
-3. run ```bundle install```
-4. Continue with step 3 below
-
-#### Subsequent work
-1. Make sure you're on the master branch (necessary if you skipped step 9): ```git checkout master```
-2. Make sure your master branch is up to date: ```git pull origin master```
-3. Start up jekyll: ```bundle exec jekyll serve``` then check [http://localhost:4000](http://localhost:4000)
-4. create a new branch for your changes: ```git checkout -b issue#3```
-5. make changes, check [http://localhost:4000](http://localhost:4000) to see your changes
-6. add your changed files: ```git add {changed-files}``` or ```git add .``` to add all untracked files
-7. commit your changes with a message: ```git commit -m "fixes issue #3"```
-8. add your branch to the repo: ```git push --set-upstream origin issue#3```
-9. switch back to the master branch: ```git checkout master```
-10. go to https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io/pulls
-11. make a new pull request with base:master and compare:issue-3
-12. wait for someone to test your changes and merge (please do not merge your own PRs)
-13. start over with step 1 for your next change
+The [Digital Library Federation (DLF)](https://www.diglib.org/) is committed to creating and supporting inclusive, diverse, and equitable communities of practice. We strive to be a [welcoming organization](https://www.diglib.org/members/join/) and the focal point for a digital library culture that is anti-oppression, anti-racist, recognizes intersectionalities, and works compassionately across difference. Together, DLF members [advance research, learning, social justice, and the public good through the creative design and wise application of digital library technologies](https://www.diglib.org/about/). We know that the best problem-solving and critical thinking happens when people with a wide array of experiences and perspectives come together to work in comfort and safety as peers. We therefore expect participants in the DLF community to help create thoughtful and respectful environments where that interaction can take place. This Code of Conduct applies to all meetings, events, working groups, and other activities organized through the DLF, including those taking place in-person or online. For more information, see https://www.diglib.org/about/code-of-conduct/ 

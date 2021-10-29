@@ -11,4 +11,4 @@ permalink: projects-current
 
 * [A <b>repository</b> for metadata assessment tools (Ongoing/Current)](/tools).
 * [A <b>collection</b> of metadata application profiles, mappings, and practices (Ongoing/Current)](https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse).
-* Blog posts (page to be created)
+* [<b>Blog posts</b> about metadata assessment](https://www.diglib.org/category/assessment/).

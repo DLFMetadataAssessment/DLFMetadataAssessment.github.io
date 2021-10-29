@@ -1,11 +1,11 @@
 ---
 title: Metadata Assessment Framework and Guidance
 layout: page
-permalink: Framework
+permalink: framework
 ---
    {::options parse_block_html="true" /}
    
-   <a href="/Projects">projects</a>->Metadata Assessment Framework and Guidance
+   <a href="/Sandbox/projects">Projects</a>->Metadata Assessment Framework and Guidance
    
    <ul>
 	<li><a href="#Metadata_metrics">Metadata metrics</a></li>
@@ -19,7 +19,7 @@ permalink: Framework
    <h3 id="Metadata_metrics">Metadata metrics</h3>
 
    <h4>Determine what metadata quality means to you</h4>
-   Metadata quality is subjective. How you define metadata quality will be unique to the core functions and mission of your institution or needs. Bruce and Hillmann’s 2004 article, “<a href="http://ecommons.cornell.edu/handle/1813/7895">The Continuum of Metadata Quality</a>,” defines a framework with seven categories of metadata quality and is noteworthy for influencing the subject’s subsequent exploration in the libraries, archives, and museums (LAM) context. Please see our list of <a href="http://dlfmetadataassessment.github.io/EnvironmentalScan/entries/33publications.html">recommended publications</a> for further investigation.
+   Metadata quality is subjective. How you define metadata quality will be unique to the core functions and mission of your institution or needs. Bruce and Hillmann’s 2004 article, “<a href="http://ecommons.cornell.edu/handle/1813/7895">The Continuum of Metadata Quality</a>,” defines a framework with seven categories of metadata quality and is noteworthy for influencing the subject’s subsequent exploration in the libraries, archives, and museums (LAM) context. Please see our list of <a href="/Sandbox/publications">recommended publications</a> for further investigation.
 
 
    <h4>Sample metrics for common metadata quality criteria</h4>
@@ -42,7 +42,7 @@ permalink: Framework
 
 
    <h4>Your application profile</h4>
-   An application profile is a document that outlines your institutional/consortial metadata schema practice. It defines your metadata elements and properties, and delineates obligations and constraints for use. An application profile also establishes context for metadata implementers and aggregators. The document provides a human-readable summary of your schema’s characteristics, which is critical for metadata assessment planning, review, and revision. Application profiles could be used for non-MARC (e.g., <a href="https://dp.la/info/wp-content/uploads/2015/03/MAPv4.pdf">DPLA</a>) or even MARC metadata (e.g., <a href="https://www.loc.gov/aba/pcc/bibco/bsr-maps.html">BIBCO Profiles</a>).
+   An application profile is a document that outlines your institutional/consortial metadata schema practice. It defines your metadata elements and properties, and delineates obligations and constraints for use. An application profile also establishes context for metadata implementers and aggregators. The document provides a human-readable summary of your schema’s characteristics, which is critical for metadata assessment planning, review, and revision. Application profiles could be used for non-MARC (e.g., <a href="https://web.archive.org/web/20160412183939/https://dp.la/info/wp-content/uploads/2015/03/MAPv4.pdf">DPLA</a>) or even MARC metadata (e.g., <a href="https://www.loc.gov/aba/pcc/bibco/bsr-maps.html">BIBCO Profiles</a>).
 
    Your application profile establishes a foundation for the development of your approach to metadata assessment by clearly specifying requirements, ranges (e.g., controlled vocabularies and/or data types), and permissible cardinality. Application profiles can also include how external standards and schemas map to your institutional metadata.
 
@@ -104,7 +104,7 @@ permalink: Framework
    <h3 id="Select_the_right_tools">Select the right tools</h3>
    When evaluating potential tools, the ideal tool or toolset is something within technical reach that also meets your purposes and aligns with your budget. There are a lot of options out there. Fortunately, there are resources available to help with selecting and using new tools.  
 
-   The DLF Metadata Assessment Environmental Scan identified a variety of tools and sorted them into categories that may match your metadata assessment project needs. An overview of the tools can be found in the <a href="http://dlfmetadataassessment.github.io/EnvironmentalScan/entries/34tools.html">Tools section of the Environmental Scan</a>, along with a link to a <a href="http://docs.google.com/spreadsheets/d/1PCi_3pcWSFQ9fR54AxwO7LWuBUu2vbVw1etvw_UAl5g/edit">detailed documentation</a> listing each tool with a brief descriptions of its scope and purpose. (<a href="http://dlfmetadataassessment.github.io/Tools/">Tools</a> assessment is an ongoing area of work.)
+   The DLF Metadata Assessment Environmental Scan identified a variety of tools and sorted them into categories that may match your metadata assessment project needs. An updated overview of the tools is forthcoming.
 
    As you review potential tools, revisit the factors that helped determine your assessment approach. Also, consider how you will be getting your data—different tools may be suitable depending on how you can export/transform it. When evaluating possible tools, think about the tools or methodologies you are already familiar with and how much time you might have to learn a new software program or acquire a new skill. Metadata assessment is a good opportunity to begin learning some code, or expand your coding experience.
 

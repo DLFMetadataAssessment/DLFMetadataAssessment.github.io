@@ -7,7 +7,7 @@ title: Home
 This is the website for the Digital Library Federation (DLF) Assessment Interest Group (AIG) Metadata Working Group, also known as the DLF AIG Metadata Assessment Working Group.
 
 Here, you can learn more about:
-* [This group](/Sandbox/about).
-* [The projects that this group has undertaken or completed](/Sandbox/projects).
-* [How to take part](/Sandbox/take-part).
-* [The people who have made this working group a success](/Sandbox/contributors).
+* [This group](/about).
+* [The projects that this group has undertaken or completed](/projects).
+* [How to take part](/take-part).
+* [The people who have made this working group a success](/contributors).

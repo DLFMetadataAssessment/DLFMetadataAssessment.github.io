@@ -25,8 +25,8 @@ As a part of the Digital Library Federation Forum, Assessment Interest Group, Me
 
 This survey was open to anyone self-identifying as a metadata professional who is currently employed in a library, archive, museum or other cultural heritage institution. Specifically, eligible participants for this study were individuals with some responsibility for metadata management and/or creation for a digital repository.
 
-* [A PDF copy of the survey is available](http://dlfmetadataassessment.github.io/assets/2019-dlf-mawg-mqb-survey-use.pdf)
-* [Anonymized response data is available](http://dlfmetadataassessment.github.io/assets/2019-dlf-mawg-mqb-survey-data.xlsx)
+* [A PDF copy of the survey is available](/assets/2019-dlf-mawg-mqb-survey-use.pdf)
+* [Anonymized response data is available](/assets/2019-dlf-mawg-mqb-survey-data.xlsx)
 
 <h2 id="wp">White Paper</h2>
 

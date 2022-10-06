@@ -1,0 +1,29 @@
+<form class="search">
+  <div class="search-lo lo">
+    <div class="lo-c lo-maxgrow">
+      <label for="searchInput" class="sr-only">Search Terms</label>
+      <input type="search" id="searchInput" class="search-txt" placeholder="Search…">
+    </div>
+    <div class="lo-c">
+      <select id="toolCategories" class="select-filter">
+        <option value="">All categories</option>
+        {% assign categories = site.tools | map: "category_broad" | sort | uniq %}
+        {% for category in categories %}
+          <option value="{{ category }}">{{ category }}</option>
+        {% endfor %}
+      </select>
+    </div>
+  </div>
+</form>
+<table id="indexedToolsTable">
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Abstract</th>
+      <th>Category</th>
+      <th>Metadata standard(s)</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>

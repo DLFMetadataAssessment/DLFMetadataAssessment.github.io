@@ -1,20 +1,100 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<!doctype html>
+<html lang="en" class="elv-{% if page.url == "/" %}default{% else %}docs{% endif %}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+      {% if page.title == "Home" %}
+        {{ site.title }}
+      {% else %}
+        {{ page.title }} | {{ site.title }}
+      {% endif %}
+    </title>
 
-  {%- include head.html -%}
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/img/dlf-logo-150x150.png" | relative_url }}">
 
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <!-- not sure I need this js... -->
+    <script>
+      if("classList" in document.documentElement) {
+        var docEl = document.documentElement;
+        docEl.classList.add("js");
+
+        if ("open" in document.createElement("details")) {
+          docEl.classList.add("supports-detailssummary");
+        }
+      }
+    </script>
+  </head>
   <body>
-
-    {%- include header.html -%}
-
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
+    <header class="elv-layout elv-layout-full elv-header elv-header-{% if page.url == "/" %}default{% else %}docs{% endif %}">
+      <div class="elv-header-c">
+        <a href="{{ "/" | relative_url }}" class="elv-hero elv-externalexempt">
+          <img src="{{ "/assets/img/dlf-dla-mwg-logo.png" | relative_url }}" alt="DLF Digital Library Assessment Metadata Working Group">
+          <span class="sr-only">DLF</span>
+        </a>
+        <h1 class="elv-hed">{{ site.title }}</h1>
+        <div class="elv-nav-header">
+          <ul class="elv-nav lo">
+            {% for item in site.data.nav.tree %}
+              <li class="elv-nav-item lo-c">
+                <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
       </div>
+    </header>
+
+    {% assign toc = false %}
+    {% for item in site.data.nav.tree %}
+      {% if page.url contains item.url and item.children %}
+        {% assign toc = true %}
+      {% endif %}
+    {% endfor %}
+
+    <main class="elv-layout{% if toc %} elv-layout-toc{% endif %}">
+      {% if toc %}
+        <div class="elv-toc">
+          <details open>
+            <summary class="btn-primary benchnine rainbow-active rainbow-active-noanim">Menu</summary>
+            {% include sidenav.html generation=site.data.nav.tree first_generation=true %}
+          </details>
+        </div>
+      {% endif %}
+
+      {% assign breadcrumbs = false %}
+      {% for item in site.data.nav.tree %}
+        {% if page.url contains item.url and page.url != item.url %}
+          {% assign breadcrumbs = true %}
+        {% endif %}
+      {% endfor %}
+
+      {% if breadcrumbs %}
+        <nav class="breadcrumb" aria-labelledby="breadcrumb">
+          <h2 class="sr-only" id="breadcrumb">Breadcrumbs: </h2>
+          <ul class="lo lo-inline">
+            {% include breadcrumbs.html generation=site.data.nav.tree %}
+          </ul>
+        </nav>
+      {% endif %}
+
+      <h1>{{ page.title }}</h1>
+      {{ content }}
+      {% if page.bottom-of-content %}
+        {% for incl in page.bottom-of-content %}
+          {% include {{ incl }}.html %}
+        {% endfor %}
+      {% endif %}
+
     </main>
-
-
-
+    <footer class="elv-footer elv-layout{% if toc %} elv-layout-toc{% endif %}">
+    <!-- Last updated: ______ -->
+    </footer>
+    {% if page.bottom-of-page %}
+      {% for incl in page.bottom-of-page %}
+        {% include javascript.html file=incl %}
+      {% endfor %}
+    {% endif %}
   </body>
-
 </html>

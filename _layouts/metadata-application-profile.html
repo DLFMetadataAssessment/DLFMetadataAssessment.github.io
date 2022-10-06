@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<dl>
+  <dt>Digital repository</dt>
+  <dd>{{ page.digital_repository }}</dd>
+  <dt>Digital repository description</dt>
+  <dd>{{ page.digital_repository_description }}</dd>
+  <dt>Digital repository URL</dt>
+  <dd><a href="{{ page.digital_repository_url }}">{{ page.digital_repository_url }}</a></dd>
+  <dt>Type</dt>
+  <dd>{{ page.document_type }}</dd>
+  <dt>Description</dt>
+  <dd>{{ page.document_description }}</dd>
+  <dt>Version</dt>
+  <dd>{{ page.document_version }}</dd>
+  <dt>Year</dt>
+  <dd>{{ page.document_year }}</dd>
+  <dt>Language</dt>
+  <dd>{{ page.document_language }}</dd>
+  <dt>Filetype</dt>
+  <dd>{{ page.document_filetype }}</dd>
+  <dt>Filename</dt>
+  <dd><a href="{{ "/assets/maps/" | append: page.document_filename | relative_url }}">{{ page.document_filename }}</a></dd>
+</dl>
+
+{% assign collect_repository = site.metadata_application_profiles | where: "digital_repository", page.digital_repository %}
+{% if collect_repository.size > 1 %}
+  <p>See also:</p>
+  <ul>
+  {% for profile in collect_repository %}
+    {% if profile.url != page.url %}
+      <li><a href="{{ profile.url | relative_url }}">{{ profile.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+{% endif %}

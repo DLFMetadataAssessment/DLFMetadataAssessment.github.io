@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<dl>
+  <dt>Abstract</dt>
+  <dd>{{ page.abstract }}</dd>
+  <dt>URL</dt>
+  <dd><a href="{{ page.tool_url | replace: "<wbr>", "" }}">{{ page.tool_url }}</a></dd>
+  <dt>Source Code/<wbr>Download URL</dt>
+  <dd><a href="{{ page.source_code | replace: "<wbr>", "" }}">{{ page.source_code }}</a></dd>
+  <dt>Creator/Maintainer</dt>
+  <dd>{{ page.creator }}</dd>
+  <dt>Type</dt>
+  <dd>{{ page.type }}</dd>
+  <dt>Task Categories (broad)</dt>
+  <dd>{{ page.category_broad | join: "; " }}</dd>
+  <dt>Task Categories - broad (Informal)</dt>
+  <dd>{{ page.category_broad_informal | join: "; " }}</dd>
+  <dt>Use Case(s) - narrow</dt>
+  <dd>{{ page.use_case }}</dd>
+  <dt>Interface</dt>
+  <dd>{{ page.interface }}</dd>
+  <dt>Dependencies</dt>
+  <dd>{{ page.dependencies }}</dd>
+  <dt>Open Source/<wbr>Proprietary</dt>
+  <dd>{{ page.open_source_proprietary }}</dd>
+  <dt>Cost</dt>
+  <dd>{{ page.cost }}</dd>
+  <dt>Related Tools</dt>
+  <dd>{{ page.related_tools }}</dd>
+  <dt>Metadata standard(s)</dt>
+  <dd>{{ page.metadata_standard }}</dd>
+  <dt>File format(s), inc. import/export</dt>
+  <dd>{{ page.file_format }}</dd>
+</dl>

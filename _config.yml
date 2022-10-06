@@ -1,25 +1,44 @@
-full_rebuild: true
-name: DLF Metadata Assessment Working Group
-author: DLF AIG Metadata Working Group
-version: V 1.0
-encoding: utf-8
-theme: minima
-markdown: kramdown
-kramdown:
-  input: GFM
-relative_permalinks: false
+title: DLF Metadata Assessment Working Group
+
+baseurl: /Sandbox
+
 collections:
-- entries
+  metadata_application_profiles:
+    output: true
+    permalink: /projects/metadata-application-profiles/:title/
+  tools:
+    output: true
+    permalink: /projects/tools/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: "assets"
+      type: "pages"
+    values:
+      layout: null
+  - scope:
+      path: ""
+      type: "metadata_application_profiles"
+    values:
+      layout: "metadata-application-profile"
+  - scope:
+      path: ""
+      type: "tools"
+    values:
+      layout: "tool"
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - 'README.md'
+
 sass:
-  sass_dir: _sass
-  style: :compressed
-exclude: [
-.git,
-.gitignore,
-README.md,
-.sass-cache,
-config.ru,
-vendor,
-Gemfile,
-Gemfile.lock
-]
+  style: compressed
+
+plugins:
+  - jekyll-redirect-from

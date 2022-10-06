@@ -6,7 +6,7 @@ The  Digital Library Federation (DLF) Assessment Interest Group (AIG) Metadata W
 
 This is the Github repository for the DLF AIG Metadata Working Group’s live/production website: http://dlfmetadataassessment.github.io/.
 
-If you would like to contribute to this website, you will need to install Git, Ruby (as well as relevant associated software such as Bundler), Jekyll, and a source code editor of your choosing, such as Notepad++ or Atom. You will also need to create a GitHub account if you do not already have one, as well as consider joining the [DLFMetadataAssessment](https://github.com/DLFMetadataAssessment) GitHub Organization. 
+If you would like to contribute to this website, you will need to install Git, Ruby (as well as relevant associated software such as Bundler), Jekyll, and a source code editor of your choosing, such as Notepad++ or Atom. You will also need to create a GitHub account if you do not already have one, as well as consider joining the [DLFMetadataAssessment](https://github.com/DLFMetadataAssessment) GitHub Organization. For more information, please consult our [documentation website](https://dlfmetadataassessment.github.io/WebsiteDocumentation/).
 
 If you are interested in joining our GitHub Organization and contributing changes, please navigate to [our wiki](https://wiki.diglib.org/Assessment:Metadata) for additional information and to get involved!
 

@@ -1,0 +1,37 @@
+@import "font-titles";
+@import "layout";
+@import "navigation";
+@import "toc";
+@import "callout";
+@import "breadcrumb";
+@import "prism-theme";
+@import "code";
+@import "announcement";
+@import "page-search";
+// seven-minute-tabs.scss
+@import "index";
+
+///////////////
+// overrides //
+///////////////
+
+.elv-hero,.elv-hero:hover{background-color:transparent}
+
+.elv-hed{margin-top:0.75em}
+
+.elv-toc-list li{font-size:inherit}
+
+.projects-list{display:flex;flex-wrap:wrap;gap:1em;margin:2em 0}
+.projects-list>*{flex-grow:1;flex-basis:12em}
+
+// displaying records...
+dl{display:flex;flex-flow:row wrap;border:solid #222;border-width:1px 1px 0 0}
+dt{flex-basis:20%;padding:2px 4px;background:#222;text-align:right;color:#fff}
+dd{flex-basis:70%;flex-grow:1;margin:0;padding:2px 4px;border-bottom:1px solid #222}
+
+.select-filter{margin-left:6px;width:100%;height:100%;padding-left:0.2em;padding-right:0.2em;border:2px solid;box-shadow:inset 2px 2px 2px 0 #aaa}
+@media(min-width:30em){.select-filter{font-size:1.125em}}
+
+form.search{margin-top:30px;margin-bottom:20px}
+
+table#indexedMAPsTable>tbody>tr>td:first-of-type>a,table#indexedToolsTable>tbody>tr>td:first-of-type>a{text-decoration:none;font-weight:600;color:#006687}

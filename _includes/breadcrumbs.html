@@ -1,0 +1,6 @@
+{% for item in include.generation %}
+    {% if page.url contains item.url and page.url != item.url %}
+      <li class="lo-c"><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+      {% include breadcrumbs.html generation=item.children %}
+    {% endif %}
+{% endfor %}

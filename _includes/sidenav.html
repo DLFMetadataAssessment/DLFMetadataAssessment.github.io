@@ -1,0 +1,21 @@
+<ul{% if include.first_generation %} class="elv-toc-list"{% endif %}>
+  {% for item in include.generation %}
+    {% if include.first_generation %}
+      {% if page.url contains item.url %}
+        <li{% if page.url == item.url %} class="elv-toc-active"{% endif %}>
+          <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          {% if item.children %}
+            {% include sidenav.html generation=item.children first_generation=false %}
+          {% endif %}
+        </li>
+      {% endif %}
+    {% else %}
+      <li{% if page.url == item.url %} class="elv-toc-active"{% endif %}>
+        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+        {% if item.children %}
+          {% include sidenav.html generation=item.children first_generation=false %}
+        {% endif %}
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

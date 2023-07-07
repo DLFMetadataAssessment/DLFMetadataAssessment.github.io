@@ -67,4 +67,4 @@ Within each section, replace "Type your answer here" with the requested informat
 
 *Please attach your file(s) using the drag and drop or selection method described at the end of this box.*
 
-*If your content exceeds 10 MB, or if you have any questions or feedback, please contact the Metadata Assessment Working Group at through our [Google Group](https://groups.google.com/forum/#!forum/dlf-aig-metadata-assessment-working-group).*
+*If your content exceeds 10 MB, or if you have any questions or feedback, please contact the Metadata Assessment Working Group through our [Google Group](https://groups.google.com/g/dlf-aig-metadata-assessment-working-group).*

@@ -21,7 +21,7 @@ Current efforts
 The 2022 DLF Metadata Assessment Working Group’s efforts focused on:
 
 *   [Publicizing information about the group and about metadata quality through blog posts and social media](https://www.diglib.org/category/assessment/)
-*   [Evaluating next steps for benchmarking based on survey data]({{ "/projects/benchmarks/" | relative_url }})
+*   [Evaluating next steps for benchmarking based on survey data](/Sandbox/projects/benchmarks)
 *   Compiling a list of resources related to skill-building for metadata quality activities
 *   [Standardizing and maintaining a metadata analysis tools repository](/Sandbox/projects/tools)
 *   Updating the DLF Metadata Assessment Working Group’s website

@@ -1,6 +1,6 @@
 title: DLF Metadata Assessment Working Group
 
-# baseurl:  /Sandbox
+baseurl: /Sandbox
 
 collections:
   metadata_application_profiles:
@@ -9,6 +9,9 @@ collections:
   tools:
     output: true
     permalink: /projects/tools/:title/
+  tutorials:
+    output: true
+    permalink: /projects/skill-building-resources/:title/
 
 defaults:
   - scope:
@@ -31,6 +34,11 @@ defaults:
       type: "tools"
     values:
       layout: "tool"
+  - scope:
+      path: ""
+      type: "tutorials"
+    values:
+      layout: "tutorial"
 
 exclude:
   - 'Gemfile'

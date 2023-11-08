@@ -20,5 +20,6 @@ Archived/completed projects
 * An [environmental scan]({{ "/projects/environmental-scan/" | relative_url }}) of metadata assessment and metadata quality literature, tools, presentations, and organizations (originally undertaken in 2016)
 * A [framework]({{ "/projects/framework/" | relative_url }}) for assessing descriptive metadata in digital collections (undertaken in 2017)
 * A [Metadata Analysis Workshop]({{ "/projects/metadata-workshop/" | relative_url }}) designed to introduce library, archive, and museum metadata practitioners and technologists to the basic skills and knowledge needed to assess metadata quality using data analysis tools (originally undertaken in 2017 and updated in 2018)
+* A [list of skillbuilding resources]({{ "/projects/skill-building-resources/" | relative_url }}) including hands-on tutorials and other resources related to metadata technology skills (undertaken in 2022)
 </div>
 </div>

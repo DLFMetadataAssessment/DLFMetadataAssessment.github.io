@@ -13,7 +13,7 @@ assignees: ''
 
 This form will allow you to submit your institution's application profiles, mappings, crosswalks and metadata code as digital files to the Clearinghouse project[1]. The MAP Clearinghouse is a project of the Digital Library Federation (DLF) Assessment Interest Group (AIG) Metadata Assessment Working Group[2]. The Metadata Assessment Working Group aims to build guidelines, best practices, tools and workflows around the evaluation and assessment of (mostly, descriptive) metadata used by and for digital libraries and repositories.
 
-[1] https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/
+[1] https://dlfmetadataassessment.github.io/projects/metadata-application-profiles/
 [2] https://dlfmetadataassessment.github.io/
 
 The following information will be used to describe your document(s) when on the Clearinghouse website. Please be aware that if you do not complete the mandatory portions of this submission form, we may not be able to include your document(s) in the Clearinghouse.
@@ -67,4 +67,4 @@ Within each section, replace "Type your answer here" with the requested informat
 
 *Please attach your file(s) using the drag and drop or selection method described at the end of this box.*
 
-*If your content exceeds 10 MB, or if you have any questions or feedback, please contact the Metadata Assessment Working Group at [email address].*
+*If your content exceeds 10 MB, or if you have any questions or feedback, please contact the Metadata Assessment Working Group through our [Google Group](https://groups.google.com/g/dlf-aig-metadata-assessment-working-group).*

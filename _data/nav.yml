@@ -21,6 +21,9 @@ tree:
         url: /projects/tools/
       - title: Metadata Application Profiles
         url: /projects/metadata-application-profiles/
+      - title: Skill-Building Resources
+        url: /projects/skill-building-resources/
+        archived: true
   - title: Take Part
     url: /take-part/
   - title: Contributors

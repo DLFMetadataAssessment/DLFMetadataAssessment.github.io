@@ -1,0 +1,29 @@
+<form class="search">
+  <div class="search-lo lo">
+    <div class="lo-c lo-maxgrow">
+      <label for="searchInput" class="sr-only">Search Terms</label>
+      <input type="search" id="searchInput" class="search-txt" placeholder="Search…">
+    </div>
+    <div class="lo-c">
+      <select id="tutorialTypes" class="select-filter">
+        <option value="">All types</option>
+        {% assign types = site.tutorials | map: "type" | sort | uniq %}
+        {% for type in types %}
+          <option value="{{ type }}">{{ type }}</option>
+        {% endfor %}
+      </select>
+    </div>
+  </div>
+</form>
+<table id="indexedTutorialsTable">
+  <thead>
+    <tr>
+      <th>Tutorial</th>
+      <th>Type</th>
+      <th>Level</th>
+      <th>Skill Taught</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>

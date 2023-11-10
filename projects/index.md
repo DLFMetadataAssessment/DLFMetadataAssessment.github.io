@@ -12,7 +12,7 @@ Ongoing/current projects
 * A [collection of metadata application profiles, mappings, and practices]({{ "/projects/metadata-application-profiles/" | relative_url }})
 * A [bibliography]({{ "/projects/publications/" | relative_url }}) of noteworthy publications and presentations
 * A [survey]({{ "/projects/benchmarks/" | relative_url }}) of metadata assessment and metadata quality practices among various libraries, archives, and museums
-* Blog posts (page to be created)
+* [Blog posts](https://www.diglib.org/category/assessment/)
 </div>
   <div markdown="1">
 Archived/completed projects

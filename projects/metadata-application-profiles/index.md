@@ -31,7 +31,7 @@ Scope
 
 The Clearinghouse is intended to be an extensible collection/repository of metadata application profiles, mappings, and related specifications that aid or guide descriptive metadata conventions in digital repository collections. The Clearinghouse intends to make these example documents freely-available as downloadable files, as web pages are subject to change and web links are subject to “reference rot.”
 
-You can submit a new resource to the Clearinghouse by [submitting a new issue in GitHub](https://github.com/DLFMetadataAssessment/Sandbox/issues/new?assignees=&labels=MAP+Clearinghouse+submission&projects=&template=metadata-resource-submission.md&title=New+MAP+Clearinghouse+resource).
+You can submit a new resource to the Clearinghouse by [submitting a new issue in GitHub](https://github.com/DLFMetadataAssessment/Sandbox/issues/new?assignees=&labels=MAP+Clearinghouse+submission&projects=&template=metadata-resource-submission.yaml&title=%5BName+of+new+Metadata+Resource%5D%3A+).
 
 Mission
 -------

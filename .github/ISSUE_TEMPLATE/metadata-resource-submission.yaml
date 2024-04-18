@@ -1,0 +1,78 @@
+name: Metadata Resource Submission via YAML
+description: "This form will allow you to submit your institution's resources to the Clearinghouse project. The following information will be used to describe your document(s) on the Clearinghouse website."
+title: "[Name of new Metadata Resource]: "
+labels: MAP Clearinghouse submission
+body:
+- type: markdown
+  attributes:
+    value: |
+      This form will allow you to submit your institution's application profiles, mappings, crosswalks and metadata code as digital files to the Clearinghouse project[1]. The MAP Clearinghouse is a project of the Digital Library Federation (DLF) Assessment Interest Group (AIG) Metadata Assessment Working Group[2]. The Metadata Assessment Working Group aims to build guidelines, best practices, tools and workflows around the evaluation and assessment of (mostly, descriptive) metadata used by and for digital libraries and repositories.
+
+      [1] https://dlfmetadataassessment.github.io/projects/metadata-application-profiles/
+      [2] https://dlfmetadataassessment.github.io/
+
+      The following information will be used to describe your document(s) when on the Clearinghouse website. Please be aware that if you do not complete the mandatory portions of this submission form, we may not be able to include your document(s) in the Clearinghouse.
+- type: textarea
+  attributes:
+    label: Institution or Repository Name
+    description: The name of your institution or repository.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Description of Institution or Repository
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Resource Name
+    description: The name of the resource you are submitting.
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: Resource Type
+    description: Select the type that best matches the resource.
+    options:
+      - Metadata application profile
+      - Metadata mapping
+      - Best practice
+      - Metadata schema
+  validations:
+      required: true
+- type: textarea
+  attributes:
+    label: Description of the Resource
+    description: Please tell us about the document(s) in a handful of sentences -- what is it used for? Why does it exist? If you have a lot to say about your doc(s) (more than one or two sentences), please consider zipping your submission with a README file.
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Resource Version
+    description: Please tell us if there is a version number associated with the document(s).
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Resource Date
+    description: Please tell us the date the document was released.
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Contact Information
+    description: Please provide a name and email address for a person whom the Metadata Assessment Working Group can contact with any questions about this submission.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Additional Information
+    description: Is there any other information you would like to provide?
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Provide File Attachment
+    description: "Please attach your file(s) using the drag and drop or selection method described at the end of this box. If your content exceeds 10 MB, or if you have any questions or feedback, please contact the Metadata Assessment Working Group through our [Google Group](https://groups.google.com/g/dlf-aig-metadata-assessment-working-group)."
+  validations:
+    required: true

@@ -43,7 +43,7 @@ We have identified a sub-selection of these articles, listed below, which we rec
 
 ### Presentations of Note
 
-*   Averkamp, Shawn, Matt Miller, Josh Hadro, and Sara Rubinow. “Measuring Your Metadata Preconference.” Presentations (communicative events) presented at the Code4Lib Philadelphia, March 7-10 2016, Philadelphia, PA, USA, March 7, 2016. [http://digital.library.unt.edu/ark:/67531/metadc505014](http://digital.library.unt.edu/ark:/67531/metadc505014).
+*   Averkamp, Shawn, Matt Miller, Josh Hadro, and Sara Rubinow. “Measuring Your Metadata Preconference.” Presentations (communicative events) presented at the Code4Lib Philadelphia, March 7-10 2016, Philadelphia, PA, USA, March 7, 2016. [https://github.com/saverkamp/measure-metadata-workshop](https://github.com/saverkamp/measure-metadata-workshop).
 *   Charles, Valentine, and Juliane Stiller. “Evaluation of Metadata Enrichment Practices in Digital Libraries: Steps towards Better Data Enrichments (Slides).” Slides presented at the SWIB 2015, Hamburg, Germany, 2015. [http://swib.org/swib15/slides/charles\_enrichment.pdf](http://swib.org/swib15/slides/charles_enrichment.pdf).
 *   Charles, Valentine, and Juliane Stiller. “Evaluation of Metadata Enrichment Practices in Digital Libraries: Steps towards Better Data Enrichments (Video).” Presentations (communicative events) presented at the SWIB 2015, Hamburg, Germany, 2015. [https://youtu.be/U90Ajgjk6ic?list=PL7fMsenbLiQ0eKJtpz3NCv0937HPwbWqV](https://youtu.be/U90Ajgjk6ic?list=PL7fMsenbLiQ0eKJtpz3NCv0937HPwbWqV).
 *   Christina Harlow. “Get Your Recon.” Presentations (communicative events) presented at the Code4Lib2016, Philadelphia, PA, USA, March 8, 2016. [http://2016.code4lib.org/Get-Your-Recon](http://2016.code4lib.org/Get-Your-Recon).

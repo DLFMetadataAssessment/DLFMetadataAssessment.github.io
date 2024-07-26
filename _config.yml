@@ -9,6 +9,9 @@ collections:
   tools:
     output: true
     permalink: /projects/tools/:title/
+    # look into this when github-pages gem uses Jekyll ≥ 4.0
+    # https://jekyllrb.com/docs/collections/#sort-by-front-matter-key
+    # sort_by: tool_title
   tutorials:
     output: true
     permalink: /projects/skill-building-resources/:title/

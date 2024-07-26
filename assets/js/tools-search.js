@@ -1,9 +1,10 @@
 ---
 ---
 
-const allTools = [{% for t in site.tools %}
+{% assign sorted_tools = site.tools | sort: "tool_title" %}
+const allTools = [{% for t in sorted_tools %}
   {
-    "title": "{{ t.title }}",
+    "title": "{{ t.tool_title }}",
     "abstract": "{{ t.abstract }}",
     "url": "{{ t.tool_url }}",
     "source_code": "{{ t.source_code }}",

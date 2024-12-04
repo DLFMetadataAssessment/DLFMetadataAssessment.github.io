@@ -24,6 +24,8 @@ tree:
       - title: Skill-Building Resources
         url: /projects/skill-building-resources/
         archived: true
+      - title: Acronyms
+        url: /projects/acronyms/  
   - title: Take Part
     url: /take-part/
   - title: Contributors

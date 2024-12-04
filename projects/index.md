@@ -13,6 +13,7 @@ Ongoing/current projects
 * A [bibliography]({{ "/projects/publications/" | relative_url }}) of noteworthy publications and presentations
 * A [survey]({{ "/projects/benchmarks/" | relative_url }}) of metadata assessment and metadata quality practices among various libraries, archives, and museums
 * [Blog posts](https://www.diglib.org/category/assessment/)
+* A [list]({{ "/projects/acronyms/" | relative_url }}) of common metadata acronyms
 </div>
   <div markdown="1">
 Archived/completed projects

@@ -1,5 +1,5 @@
 ---
-title: About
+title: About MWG
 ---
 
 Welcome to the [Digital Library Federation (DLF) Assessment Interest Group (AIG) Metadata Working Group](https://wiki.diglib.org/Assessment:Metadata), also known as the DLF Metadata Assessment Working Group.

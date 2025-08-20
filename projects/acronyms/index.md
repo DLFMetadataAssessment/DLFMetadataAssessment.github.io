@@ -2,6 +2,8 @@
 title: Acronyms
 ---
 
+This is a non-exhaustive list of full names for acronyms and initialisms that staff working with digital collections or engaging in similar library activities may encounter. When applicable, links have been included to the associated entity for more information.
+
 * **AACR2** - Anglo-American Cataloging Rules, 2nd Edition
 * **AAT** - [[Getty] Art and Architecture Thesaurus](https://www.getty.edu/research/tools/vocabularies/aat/)
 * **ACRL** - [Association of College and Research Libraries](https://www.ala.org/acrl)

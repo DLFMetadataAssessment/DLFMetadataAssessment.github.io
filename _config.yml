@@ -1,7 +1,5 @@
 title: DLF Metadata Assessment Working Group
 
-# baseurl: /Sandbox
-
 collections:
   metadata_application_profiles:
     output: true

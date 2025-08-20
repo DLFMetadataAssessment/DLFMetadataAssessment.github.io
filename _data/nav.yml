@@ -1,5 +1,5 @@
 tree:
-  - title: About
+  - title: About MWG
     url: /about/
   - title: Projects
     url: /projects/
@@ -30,5 +30,5 @@ tree:
     url: /take-part/
   - title: Contributors
     url: /contributors/
-  - title: Resources
-    url: /resources/
+  - title: About this Website
+    url: /website/

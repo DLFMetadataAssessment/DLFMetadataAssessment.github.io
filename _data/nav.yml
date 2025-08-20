@@ -1,0 +1,34 @@
+tree:
+  - title: About MWG
+    url: /about/
+  - title: Projects
+    url: /projects/
+    children:
+      - title: Environmental Scan
+        url: /projects/environmental-scan/
+        archived: true
+      - title: Publications and Presentations of Note
+        url: /projects/publications/
+      - title: Metadata Assessment Framework and Guidance
+        url: /projects/framework/
+        archived: true
+      - title: Metadata Quality Benchmarks
+        url: /projects/benchmarks/
+      - title: Metadata Analysis Workshop
+        url: /projects/metadata-workshop/
+        archived: true
+      - title: Tools
+        url: /projects/tools/
+      - title: Metadata Application Profiles
+        url: /projects/metadata-application-profiles/
+      - title: Skill-Building Resources
+        url: /projects/skill-building-resources/
+        archived: true
+      - title: Acronyms
+        url: /projects/acronyms/  
+  - title: Take Part
+    url: /take-part/
+  - title: Contributors
+    url: /contributors/
+  - title: About this Website
+    url: /website/

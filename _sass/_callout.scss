@@ -1,0 +1,111 @@
+/* Warning */
+.elv-callout {
+	line-height: 1.5;
+	padding: 0.8125em 1em 0.75em; /* 13px 16px 12px /16 */
+	margin-left: -1rem;
+	margin-right: -1rem;
+	margin-bottom: 2em;
+	background-color: #dff7ff;
+}
+@media (min-width: 44.375em) { /* 710px */
+	.elv-callout {
+		border-radius: 0.3em;
+	}
+}
+@media (prefers-color-scheme: dark) {
+	.elv-callout {
+		background-color: hsl(195, 100%, 12%);
+	}
+	.elv-callout,
+	.elv-callout a {
+		color: #fff;
+	}
+}
+table .elv-callout {
+	margin-left: 0;
+	margin-right: 0;
+	margin-bottom: 1em;
+}
+
+/* The icon is only shown when `info` is explicitly defined */
+.elv-callout-info:before {
+	content: "ℹ️ ";
+}
+.elv-callout code {
+	background-color: hsl(195, 100%, 80%);
+}
+@media (prefers-color-scheme: dark) {
+	.elv-callout code {
+		background-color: hsl(195, 100%, 22%);
+	}
+}
+/* Error */
+.elv-callout-error {
+	background-color: hsl(0, 100%, 80%);
+}
+.elv-callout-error:before {
+	content: "⛔️ ";
+}
+.elv-callout-error code {
+	background-color: hsl(0, 100%, 70%);
+}
+@media (prefers-color-scheme: dark) {
+	.elv-callout-error {
+		background-color: hsl(0, 100%, 12%);
+	}
+	.elv-callout-error code {
+		background-color: hsl(0, 100%, 22%);
+	}
+}
+/* Warning */
+.elv-callout-warn {
+	background-color: hsl(60, 100%, 83%);
+}
+@media (prefers-color-scheme: dark) {
+	.elv-callout-warn {
+		background-color: hsl(31, 100%, 17%);
+	}
+}
+.elv-callout-warn:before {
+	content: "⚠️ ";
+}
+.elv-callout-warn-block:before {
+	content: "";
+}
+.elv-callout-warn-block > :first-child {
+	margin-top: 0;
+}
+.elv-callout-warn-block > :last-child {
+	margin-bottom: 0;
+}
+.elv-callout-warn-block > :first-child:before {
+	content: "⚠️ ";
+}
+.elv-callout-warn code {
+	background-color: hsl(60, 100%, 57%);
+}
+@media (prefers-color-scheme: dark) {
+	.elv-callout-warn code {
+		background-color: hsl(31, 100%, 33%)
+	}
+}
+.elv-callout:first-child {
+	margin-top: 0;
+}
+.elv-callout > ul:last-child,
+.elv-callout > ol:last-child {
+	margin-bottom: 0;
+}
+body > .elv-callout {
+	margin-left: 0;
+	margin-right: 0;
+	padding: .5rem 1rem;
+}
+@media (min-width: 37.5em) and (min-height: 25em) { /* 600px / 400px */
+	body > .elv-callout-sticky {
+		position: sticky;
+		top: 0;
+		z-index: 2;
+		box-shadow: 0 3px 0 0 rgba(0,0,0,.08);
+	}
+}

@@ -20,6 +20,7 @@ const allTools = [{% for t in sorted_tools %}
     "related_tools": "{{ t.related_tools }}",
     "metadata_standard": "{{ t.metadata_standard }}",
     "file_format": "{{ t.file_format }}",
+    "resources": "{{ t.resources }}",
     "record_url": "{{ t.url | relative_url }}"
   }{% unless forloop.last %},{% endunless %}{% endfor %}
 ];

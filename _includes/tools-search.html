@@ -5,6 +5,7 @@
       <input type="search" id="searchInput" class="search-txt" placeholder="Search…">
     </div>
     <div class="lo-c">
+      <label for="toolCategories" class="sr-only">Select a tool category:</label>
       <select id="toolCategories" class="select-filter">
         <option value="">All categories</option>
         {% assign categories = site.tools | map: "category_broad" | sort | uniq %}

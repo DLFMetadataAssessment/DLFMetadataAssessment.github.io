@@ -4,7 +4,7 @@ title: Publications and Presentations of Note
 
 This work began in 2016 and was originally published as part of an _Environmental Scan of Metadadata Assessement_ ([Archived]({{ "/assets/pdf/2016-dlf-mawg-site.pdf" | relative_url }})). We continue to actively collect citations of interest in the [Metadata Assessment Zotero Group](https://www.zotero.org/groups/metadata_assessment) and welcome any additions or updates. This group intends to periodically review the citations for additions to the Publications and Presentations sections below.
 
-### Summary
+## Summary
 
 The group initially surveyed more than 50 documents in 2016 produced as early as 2002, ranging from journal articles, white papers, and reports to blog posts and wikis. In 2019, the group reviewed more than 100 articles added to the Metadata Assessment Zotero Group since 2016 to determine if changes or additions should be made to this list of publications of note.
 
@@ -24,7 +24,7 @@ In 2013, Hillmann and Bruce revisited their original framework in the context of
 
 A common theme across the publications we reviewed is the subjective nature of “quality,” since its definition is dependent upon local context and content as well as institutional goals. According to Hillmann and Bruce (2013), conceptual criteria are “the lenses that help us know quality when we see it.” Through building a community of practice for assessing metadata quality, we will be better positioned to have a shared vision, one that provides for the sustainability of our resources and meets the needs of our users and systems.
 
-### Publications of Note
+## Publications of Note
 
 We have identified a sub-selection of these articles, listed below, which we recommend as good starting points for librarians interested in learning about metadata assessment. The articles review foundational concepts, present sound frameworks for analysis, cover particular common aspects of assessment, and/or have been influential in other research.
 
@@ -41,7 +41,7 @@ We have identified a sub-selection of these articles, listed below, which we rec
 *   Stvilia, Besiki, and Les Gasser. “Value-Based Metadata Quality Assessment.” Library and Information Science Research 30, no. 1 (2008): 67–74.
 *   Zavalina, Oksana L., Priya Kizhakkethil, Daniel Gelaw Alemneh, Mark E. Phillips, and Hannah Tarver. “Building a Framework of Metadata Change to Support Knowledge Management.” Journal of Information & Knowledge Management 14, no. 01 (March 1, 2015). [https://doi.org/10.1142/S0219649215500057](https://doi.org/10.1142/S0219649215500057).
 
-### Presentations of Note
+## Presentations of Note
 
 *   Averkamp, Shawn, Matt Miller, Josh Hadro, and Sara Rubinow. “Measuring Your Metadata Preconference.” Presentations (communicative events) presented at the Code4Lib Philadelphia, March 7-10 2016, Philadelphia, PA, USA, March 7, 2016. [https://github.com/saverkamp/measure-metadata-workshop](https://github.com/saverkamp/measure-metadata-workshop).
 *   Charles, Valentine, and Juliane Stiller. “Evaluation of Metadata Enrichment Practices in Digital Libraries: Steps towards Better Data Enrichments (Slides).” Slides presented at the SWIB 2015, Hamburg, Germany, 2015. [http://swib.org/swib15/slides/charles\_enrichment.pdf](http://swib.org/swib15/slides/charles_enrichment.pdf).

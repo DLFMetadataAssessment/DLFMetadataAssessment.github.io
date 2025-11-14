@@ -1,8 +1,8 @@
 ---
-title: Metadata Quality Benchmarks
+title: Metadata Benchmarks Survey
 ---
 
-This site is dedicated to the study of benchmarks in metadata quality. As a part of the [Digital Library Federation Forum, Assessment Interest Group, Metadata Working Group](https://wiki.diglib.org/Assessment), the Metadata Quality Benchmarks subgroup formed in early 2018.
+The Metadata Quality Benchmarks subgroup formed in early 2018 to study ways that the group could provide guidance and support for organizations to benchmark local metadata. Documentation [outlining benchmarks and supplementary information](https://dlfmetadataassessment.github.io/MetadataQualityBenchmarks/) was publicly released in 2025. This page contains information about the early work and data-gathering activities of the subgroup.
 
 *   [Metadata Benchmarks Survey](#survey-of-benchmarks-in-metadata-quality)
 *   [White Paper](#white-paper)

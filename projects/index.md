@@ -11,9 +11,9 @@ Ongoing/current projects
 * A [metadata assessment tools repository]({{ "/projects/tools/" | relative_url }})
 * A [collection of metadata application profiles, mappings, and practices]({{ "/projects/metadata-application-profiles/" | relative_url }})
 * A [bibliography]({{ "/projects/publications/" | relative_url }}) of noteworthy publications and presentations
-* A [survey]({{ "/projects/benchmarks/" | relative_url }}) of metadata assessment and metadata quality practices among various libraries, archives, and museums
 * [Blog posts](https://www.diglib.org/category/assessment/)
 * A [list]({{ "/projects/acronyms/" | relative_url }}) of common metadata acronyms
+* Documentation related to [descriptive metadata quality benchmarks](https://dlfmetadataassessment.github.io/MetadataQualityBenchmarks/) and supplementary resources
 </div>
   <div markdown="1">
 Archived/completed projects
@@ -22,5 +22,6 @@ Archived/completed projects
 * A [framework]({{ "/projects/framework/" | relative_url }}) for assessing descriptive metadata in digital collections (undertaken in 2017)
 * A [Metadata Analysis Workshop]({{ "/projects/metadata-workshop/" | relative_url }}) designed to introduce library, archive, and museum metadata practitioners and technologists to the basic skills and knowledge needed to assess metadata quality using data analysis tools (originally undertaken in 2017 and updated in 2018)
 * A [list of skillbuilding resources]({{ "/projects/skill-building-resources/" | relative_url }}) including hands-on tutorials and other resources related to metadata technology skills (undertaken in 2022)
+* A [survey]({{ "/projects/benchmarks/" | relative_url }}) of metadata assessment and metadata quality practices among various libraries, archives, and museums
 </div>
 </div>

@@ -5,13 +5,12 @@ title: Contributors
 Leadership
 ----------
 
-This is the list of contributors who led the working group during 2024.
+This is the list of contributors who led the working group during 2025.
 
 *   Hannah Tarver (co-facilitator, Metadata Working Group; leader, Benchmarks)
 *   Scott Goldstein (co-leader, Website subgroup)
 *   Anna Goslen (co-leader, Website subgroup)
-*   Greer Martin (leader, Tools subgroup)
-*   Mandy Mastrovita (leader, Blog posts/social media)
+*   Annamarie Klose (leader, Tools subgroup)
 
 Members
 -------
@@ -25,7 +24,7 @@ This list of contributors was created based on the lists of people who attended 
 *   Jeremy Bartczak (2018-2019)
 *   Filipe Bento (2016)
 *   Damian Biagi (2017)
-*   Kaylin Blount (2024)
+*   Kaylin Blount (2024-2025)
 *   Liz Bodian (2018-2019, 2023)
 *   Michael Bolam (2019-2021, 2023)
 *   Jennifer Bradshaw (2020)
@@ -45,7 +44,7 @@ This list of contributors was created based on the lists of people who attended 
 *   Jenn Colt (2018)
 *   Jane Darcovich (2019-2021)
 *   Danoosh Davoodi (2019)
-*   Chris Day (2022-2024)
+*   Chris Day (2022-2025)
 *   Paul Daybell (2021)
 *   Megan De Armond (2019)
 *   Dana Deseck-Piazzon (2021)
@@ -71,8 +70,8 @@ This list of contributors was created based on the lists of people who attended 
 *   Katrina Gertz (2019-2020)
 *   Jennifer Gilbert (2016)
 *   Ivey Glendon (2016)
-*   Scott Goldstein (2020-2024)
-*   Anna Goslen (2016, 2018, 2021, 2023-2024)
+*   Scott Goldstein (2020-2025)
+*   Anna Goslen (2016, 2018, 2021, 2023-2025)
 *   Paloma Graciani (2017)
 *   Paloma Graciani-Picardo (2018)
 *   Peggy Griesinger (2016)
@@ -93,18 +92,18 @@ This list of contributors was created based on the lists of people who attended 
 *   gwyn johns (2020)
 *   Christine Kim (2019)
 *   Heajin Kim (2020-2021)
-*   Annamarie Klose (2020-2024)
+*   Annamarie Klose (2020-2025)
 *   Charlotte Kostelic (2021)
 *   Lukas Koster (2016)
 *   Deb Kulczak (2019)
 *   Liz Kupke (2016)
 *   P. Thomas Lacey (2018)
-*   Tricia Lampron (2019-2024)
+*   Tricia Lampron (2019-2025)
 *   Andrea Leonard (2016-2018)
 *   Sarah Lindsey (2019)
 *   Xiaoli Ma (2019-2021)
 *   Karen Majewicz (2016)
-*   Greer Martin (2020-2024)
+*   Greer Martin (2020-2025)
 *   Mandy Mastrovita (2019-2024)
 *   Lisa McFall (2018)
 *   Bill McMillin (2016-2018)
@@ -164,7 +163,7 @@ This list of contributors was created based on the lists of people who attended 
 *   Hannah Stitzlein (2017)
 *   Gina Strack (2019-2021)
 *   Martha Stuit (2020)
-*   Hannah Tarver (2016-2024)
+*   Hannah Tarver (2016-2025)
 *   Rachel Trent (2016)
 *   Tammy Troup (2019-2020)
 *   Clara Turp (2018)

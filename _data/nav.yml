@@ -12,7 +12,7 @@ tree:
       - title: Metadata Assessment Framework and Guidance
         url: /projects/framework/
         archived: true
-      - title: Metadata Quality Benchmarks
+      - title: Metadata Benchmarks Survey
         url: /projects/benchmarks/
       - title: Metadata Analysis Workshop
         url: /projects/metadata-workshop/
@@ -25,7 +25,9 @@ tree:
         url: /projects/skill-building-resources/
         archived: true
       - title: Acronyms
-        url: /projects/acronyms/  
+        url: /projects/acronyms/
+      - title: Metadata Quality Benchmarks
+        url: https://dlfmetadataassessment.github.io/MetadataQualityBenchmarks/
   - title: Take Part
     url: /take-part/
   - title: Contributors

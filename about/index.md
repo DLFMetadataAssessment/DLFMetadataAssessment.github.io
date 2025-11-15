@@ -18,18 +18,11 @@ We hope that this resource offers a way for fellow metadata professionals to per
 Current efforts
 ------------
 
-The 2023 DLF Metadata Assessment Working Group’s efforts focused on:
+Each year, members of the DLF Metadata Assessment Working Group meet to discuss projects for the year and how to prioritize time and resources. Most work results in deliverables, either through maintenance and enhancement of existing resources or the creation of new documentation. All of these are listed on the [Projects page]({{ "/projects/" | relative_url }}).
 
-*   [Publicizing information about the group and about metadata quality through blog posts and social media](https://www.diglib.org/category/assessment/)
-*   [Evaluating next steps for benchmarking based on survey data]({{ "projects/benchmarks" | relative_url }})
-*   [Standardizing and maintaining a metadata analysis tools repository]({{ "/projects/tools/" | relative_url }})
-*   Updating the DLF Metadata Assessment Working Group’s website
-*   Reviewing and updating a glossary of digital library terms
+[The DLF Metadata Assessment Working Group’s wiki page](https://wiki.diglib.org/Assessment:Metadata) lists priorities for the current year along with a list of prior years' goals and deliverables. It also includes an up-to-date list of meeting dates and times.
 
-Prior Efforts
--------------
-
-See [the DLF Metadata Assessment Working Group’s wiki page](https://wiki.diglib.org/Assessment:Metadata) for prior years’ goals and deliverables.
+For more information about participating or contributing to current projects, see the [Take Part page]({{ "/take-part/" | relative_url }}).
 
 Project Limitations
 -------------------

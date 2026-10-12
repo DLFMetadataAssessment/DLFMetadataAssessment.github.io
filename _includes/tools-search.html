@@ -8,7 +8,7 @@
       <label for="toolCategories" class="sr-only">Select a tool category:</label>
       <select id="toolCategories" class="select-filter">
         <option value="">All categories</option>
-        {% assign categories = site.tools | map: "category_broad" | sort | uniq %}
+        {% assign categories = site.tools | map: "category" | sort | uniq %}
         {% for category in categories %}
           <option value="{{ category }}">{{ category }}</option>
         {% endfor %}

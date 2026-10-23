@@ -10,8 +10,7 @@ const allTools = [{% for t in sorted_tools %}
     "source_code": "{{ t.source_code }}",
     "creator": "{{ t.creator }}",
     "type": "{{ t.type }}",
-    "category_broad": [{% for category in t.category_broad %}"{{ category }}"{% unless forloop.last %}, {% endunless %}{% endfor %}],
-    "category_broad_informal": [{% for category in t.category_broad_informal %}"{{ category }}"{% unless forloop.last %}, {% endunless %}{% endfor %}],
+    "category": [{% for category in t.category %}"{{ category }}"{% unless forloop.last %}, {% endunless %}{% endfor %}],
     "use_case": "{{ t.use_case }}",
     "interface": "{{ t.interface }}",
     "dependencies": "{{ t.dependencies }}",
@@ -43,15 +42,14 @@ var rebuildSearchIndex = function() {
   search.searchIndex = new JsSearch.UnorderedSearchIndex();
   search.addIndex('abstract');
   search.addIndex('type');
-  search.addIndex('category_broad');
-  search.addIndex('category_broad_informal');
+  search.addIndex('category');
   search.addIndex('use_case');
   search.addIndex('interface');
   search.addIndex('open_source_proprietary');
   search.addIndex('cost');
   search.addIndex('metadata_standard');
   search.addIndex('file_format');
-  search.addDocuments(filterCategoriesSelect.value != "" ? allTools.filter(t => t.category_broad.includes(filterCategoriesSelect.value)) : allTools);
+  search.addDocuments(filterCategoriesSelect.value != "" ? allTools.filter(t => t.category.includes(filterCategoriesSelect.value)) : allTools);
 };
 
 var indexedToolsTable = document.getElementById('indexedToolsTable');
@@ -76,7 +74,7 @@ var updateToolsTable = function(Tools) {
     abstractColumn.innerHTML = Tool.abstract.split(" ").length > 23 ? Tool.abstract.split(" ").slice(0, 23).join(" ") + " …" : Tool.abstract;
 
     var categoryColumn = document.createElement('td');
-    categoryColumn.innerHTML = Tool.category_broad.join("; ");
+    categoryColumn.innerHTML = Tool.category.join("; ");
 
     var metadataStandardColumn = document.createElement('td');
     metadataStandardColumn.innerHTML = Tool.metadata_standard;
@@ -97,7 +95,7 @@ var update = function() {
   } else if (!!searchInput.value) {
     updateToolsTable([]);
   } else {
-    updateToolsTable(filterCategoriesSelect.value != "" ? allTools.filter(t => t.category_broad.includes(filterCategoriesSelect.value)) : allTools);
+    updateToolsTable(filterCategoriesSelect.value != "" ? allTools.filter(t => t.category.includes(filterCategoriesSelect.value)) : allTools);
   }
 };
 

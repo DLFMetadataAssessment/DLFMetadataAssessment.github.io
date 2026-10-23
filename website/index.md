@@ -25,4 +25,4 @@ GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScri
 Maintenance and Support
 -------------
 
-The site is maintained by the MWG Website subgroup. To find out about contributing to MWG and its subgroups, see [Take Part]({{ "/take-part/" | relative_url }}). For questions or feedback about the website, please [submit an issue](https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io/issues/new?template=BLANK_ISSUE) to our GitHub repository.
+The site is maintained by the MWG Website subgroup. To find out about contributing to MWG and its subgroups, see [Take Part]({{ "/take-part/" | relative_url }}). For questions or feedback about the website, please [submit an issue](https://github.com/DLFMetadataAssessment/DLFMetadataAssessment.github.io/issues/new?template=BLANK_ISSUE) to our GitHub repository. The documentation for the MWG Website subgroup can be found on the [Website Documentation](https://dlfmetadataassessment.github.io/WebsiteDocumentation/) site.

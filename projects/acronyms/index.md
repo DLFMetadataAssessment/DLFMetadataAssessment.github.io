@@ -16,7 +16,7 @@ This is a non-exhaustive list of full names for acronyms and initialisms that st
 * **CLIR** - [Council on Library and Information Resources](https://www.clir.org/)
 * **CLOCKSS** - [Controlled LOCKSS (Lots of Copies Keep Stuff Safe)](https://clockss.org/)
 * **CNI** - [Coalition for Networked Information](https://www.cni.org/)
-* **COMET** -  Collaborative Metadata Enrichment Task Force
+* **COMET** -  [Collaborative Metadata Enrichment Task Force](https://www.cometadata.org/)
 * **CONA** - [[Getty] Cultural Objects Name Authority](https://www.getty.edu/research/tools/vocabularies/cona/index.html)
 * **CRL** - [Center for Research Libraries](https://www.crl.edu/)
 * **DAMS** - digital asset management system
